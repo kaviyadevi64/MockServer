@@ -242,7 +242,7 @@
   ]
 }
 ],
-"propertyDetail":[
+"propertyDetail1":[
   {
   "data": {
     "propertyId": 1,
@@ -289,8 +289,9 @@
   },
   "status": 200,
   "detail": "Success"
-},
-{
+}],
+"propertyDetails2":[
+  {
   "data": {
     "propertyId": 2,
     "orgId": "ORG002",
@@ -334,8 +335,9 @@
   },
   "status": 200,
   "detail": "Success"
-},
-{
+}],
+"propertyDetail3":[
+  {
   "data": {
     "propertyId": 3,
     "orgId": "ORG003",
@@ -378,8 +380,9 @@
   },
   "status": 200,
   "detail": "Success"
-},
-{
+}],
+"propertyDetail4":[
+  {
   "data": {
     "propertyId": 4,
     "orgId": "ORG004",
@@ -423,8 +426,9 @@
   },
   "status": 200,
   "detail": "Success"
-},
-{
+}],
+"propertyDetail5":[
+  {
   "data": {
     "propertyId": 5,
     "orgId": "ORG005",
