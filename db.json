@@ -241,5 +241,54 @@
     }
   ]
 }
+],
+"propertyDetail/1":[
+  {
+  "data": {
+    "propertyId": 1,
+    "orgId": "ORG001",
+    "projectId": 101,
+    "structureId": 202,
+    "propertyName": "Sunrise Apartments - Renovated",
+    "propertyTypeCode": "RESIDENTIAL",
+    "statusCode": "ACTIVE",
+    "addressLine1": "123 Main Street",
+    "addressLine2": "Block B",
+    "landmark": "Near City Park",
+    "locality": "Downtown",
+    "city": "New York",
+    "state": "New York",
+    "country": "United States",
+    "pincode": "10001",
+    "createdBy": "admin_user",
+    "createdAt": "2025-09-24T08:52:59.980556Z",
+    "updatedBy": "editor_user",
+    "updatedAt": "2025-09-24T15:21:23.851142Z",
+    "features": [
+      { "name": "Bedrooms", "value": "4", "featureId": 1 },
+      { "name": "Bathrooms", "value": "2", "featureId": 2 },
+      { "name": "Balcony", "value": "Yes", "featureId": 14 }
+    ],
+    "measurements": [
+      { "type": "Carpet Area", "measurement": 1200.5, "unitCode": "sqft", "measurementId": 1 },
+      { "type": "Built-Up Area", "measurement": 1500, "unitCode": "sqft", "measurementId": 2 }
+    ],
+    "prices": [
+      { "priceType": "Sale", "basePrice": 7600000, "offerPrice": 7400000, "currency": "USD", "validFrom": "2025-09-24T00:00:00Z", "validTo": "2025-12-31T23:59:59Z", "priceId": 1 },
+      { "priceType": "Rent", "basePrice": 2500, "offerPrice": 2400, "currency": "USD", "validFrom": "2025-09-24T00:00:00Z", "validTo": "2026-03-31T23:59:59Z", "priceId": 2 }
+    ],
+   "images": [
+  { "filebytes": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAADFAKEBASE64_1" },
+  { "filebytes": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAADFAKEBASE64_2" },
+  { "filebytes": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAADFAKEBASE64_3" },
+  { "filebytes": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAADFAKEBASE64_4" }
+],
+    "documents": []
+  },
+  "status": 200,
+  "detail": "Success"
+}
+
+
 ]
 }
