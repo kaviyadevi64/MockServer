@@ -55,7 +55,9 @@
         }
       ],
       "images": [
-        "https://ibb.co/s9sCtKM6"
+       {
+        "fileBytes": "https://ibb.co/s9sCtKM6"
+       }
       ]
     },
     {
@@ -98,7 +100,9 @@
         }
       ],
       "images": [
-        "https://ibb.co/b4FcPg8"
+        {
+        "fileBytes":"https://ibb.co/b4FcPg8"
+        }
       ]
     },
     {
@@ -140,7 +144,9 @@
         }
       ],
       "images": [
-        "https://ibb.co/LdwYpb43"
+        {
+        "fileBytes":"https://ibb.co/LdwYpb43"
+        }
       ]
     },
     {
@@ -183,7 +189,9 @@
         }
       ],
       "images": [
-        "https://ibb.co/B5hyrWph"
+        {
+        "fileBytes":"https://ibb.co/B5hyrWph"
+        }
       ]
     },
     {
@@ -226,7 +234,9 @@
         }
       ],
       "images": [
-        "https://ibb.co/mCHWwYbV"
+        {
+        "fileBytes":"https://ibb.co/mCHWwYbV"
+        }
       ]
     }
   ]
