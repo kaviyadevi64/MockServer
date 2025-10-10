@@ -1,235 +1,241 @@
 {
   "properties":[
     {
+  "totalCount": 5,
+  "pageNumber": 1,
+  "pageSize": 10,
   "properties": [
     {
-      "totalCount": 5,
-      "pageNumber": 1,
-      "pageSize": 10,
-      "properties": [
+      "propertyId": 1,
+      "orgId": "ORG001",
+      "projectId": 101,
+      "structureId": 202,
+      "propertyName": "Sunrise Apartments",
+      "propertyTypeCode": "RESIDENTIAL",
+      "statusCode": "ACTIVE",
+      "addressLine1": "123 Main Street",
+      "addressLine2": "Block B",
+      "landmark": "Near City Park",
+      "locality": "Downtown",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "pincode": "10001",
+      "createdBy": "admin_user",
+      "createdAt": "2025-09-24T08:52:59.980556Z",
+      "updatedBy": "editor_user",
+      "updatedAt": "2025-09-24T15:21:23.851142Z",
+      "features": [
+        { "name": "Bedrooms", "value": "4", "featureId": 1 },
+        { "name": "Bathrooms", "value": "2", "featureId": 2 },
+        { "name": "Balcony", "value": "Yes", "featureId": 14 }
+      ],
+      "measurements": [
+        { "type": "Carpet Area", "measurement": 1200.5, "unitCode": "sqft", "measurementId": 1 },
+        { "type": "Built-Up Area", "measurement": 1500, "unitCode": "sqft", "measurementId": 2 }
+      ],
+      "prices": [
         {
-          "propertyId": 1,
-          "orgId": "ORG001",
-          "projectId": 101,
-          "structureId": 202,
-          "propertyName": "Sunrise Apartments",
-          "propertyTypeCode": "RESIDENTIAL",
-          "statusCode": "ACTIVE",
-          "addressLine1": "123 Main Street",
-          "addressLine2": "Block B",
-          "landmark": "Near City Park",
-          "locality": "Downtown",
-          "city": "New York",
-          "state": "New York",
-          "country": "United States",
-          "pincode": "10001",
-          "createdBy": "admin_user",
-          "createdAt": "2025-09-24T08:52:59.980556Z",
-          "updatedBy": "editor_user",
-          "updatedAt": "2025-09-24T15:21:23.851142Z",
-          "features": [
-            { "name": "Bedrooms", "value": "4", "featureId": 1 },
-            { "name": "Bathrooms", "value": "2", "featureId": 2 },
-            { "name": "Balcony", "value": "Yes", "featureId": 14 }
-          ],
-          "measurements": [
-            { "type": "Carpet Area", "measurement": 1200.5, "unitCode": "sqft", "measurementId": 1 },
-            { "type": "Built-Up Area", "measurement": 1500, "unitCode": "sqft", "measurementId": 2 }
-          ],
-          "prices": [
-            {
-              "priceType": "Sale",
-              "basePrice": 7600000,
-              "offerPrice": 7400000,
-              "currency": "USD",
-              "validFrom": "2025-09-24T00:00:00Z",
-              "validTo": "2025-12-31T23:59:59Z",
-              "priceId": 1
-            },
-            {
-              "priceType": "Rent",
-              "basePrice": 2500,
-              "offerPrice": 2400,
-              "currency": "USD",
-              "validFrom": "2025-09-24T00:00:00Z",
-              "validTo": "2026-03-31T23:59:59Z",
-              "priceId": 2
-            }
-          ],
-          "images": [
-            { "fileBytes": "https://i.ibb.co/CKV6WbTM/modern-apartment-building.jpg" }
-          ]
+          "priceType": "Sale",
+          "basePrice": 7600000,
+          "offerPrice": 7400000,
+          "currency": "USD",
+          "validFrom": "2025-09-24T00:00:00Z",
+          "validTo": "2025-12-31T23:59:59Z",
+          "priceId": 1
         },
         {
-          "propertyId": 2,
-          "orgId": "ORG002",
-          "projectId": 102,
-          "structureId": 203,
-          "propertyName": "Lakeview Villas",
-          "propertyTypeCode": "VILLA",
-          "statusCode": "ACTIVE",
-          "addressLine1": "45 Lakeside Road",
-          "addressLine2": "Sector A",
-          "landmark": "Near Blue Lake",
-          "locality": "Westend",
-          "city": "Vancouver",
-          "state": "British Columbia",
-          "country": "Canada",
-          "pincode": "V6B 1A1",
-          "createdBy": "admin_user",
-          "createdAt": "2025-08-15T11:22:45.000000Z",
-          "updatedBy": "manager_user",
-          "updatedAt": "2025-09-01T09:10:00.000000Z",
-          "features": [
-            { "name": "Bedrooms", "value": "5", "featureId": 3 },
-            { "name": "Bathrooms", "value": "4", "featureId": 4 },
-            { "name": "Garage", "value": "Yes", "featureId": 5 }
-          ],
-          "measurements": [
-            { "type": "Built-Up Area", "measurement": 2800, "unitCode": "sqft", "measurementId": 3 }
-          ],
-          "prices": [
-            {
-              "priceType": "Sale",
-              "basePrice": 1250000,
-              "offerPrice": 1200000,
-              "currency": "CAD",
-              "validFrom": "2025-08-01T00:00:00Z",
-              "validTo": "2025-12-31T23:59:59Z",
-              "priceId": 3
-            }
-          ],
-          "images": [
-            { "fileBytes": "https://i.ibb.co/f39j2YP/property2.jpg" }
-          ]
-        },
+          "priceType": "Rent",
+          "basePrice": 2500,
+          "offerPrice": 2400,
+          "currency": "USD",
+          "validFrom": "2025-09-24T00:00:00Z",
+          "validTo": "2026-03-31T23:59:59Z",
+          "priceId": 2
+        }
+      ],
+      "images": [
+       {
+        "fileBytes": "https://i.ibb.co/CKV6WbTM/modern-apartment-building.jpg"
+       }
+      ]
+    },
+    {
+      "propertyId": 2,
+      "orgId": "ORG002",
+      "projectId": 102,
+      "structureId": 203,
+      "propertyName": "Lakeview Villas",
+      "propertyTypeCode": "VILLA",
+      "statusCode": "ACTIVE",
+      "addressLine1": "45 Lakeside Road",
+      "addressLine2": "Sector A",
+      "landmark": "Near Blue Lake",
+      "locality": "Westend",
+      "city": "Vancouver",
+      "state": "British Columbia",
+      "country": "Canada",
+      "pincode": "V6B 1A1",
+      "createdBy": "admin_user",
+      "createdAt": "2025-08-15T11:22:45.000000Z",
+      "updatedBy": "manager_user",
+      "updatedAt": "2025-09-01T09:10:00.000000Z",
+      "features": [
+        { "name": "Bedrooms", "value": "5", "featureId": 3 },
+        { "name": "Bathrooms", "value": "4", "featureId": 4 },
+        { "name": "Garage", "value": "Yes", "featureId": 5 }
+      ],
+      "measurements": [
+        { "type": "Built-Up Area", "measurement": 2800, "unitCode": "sqft", "measurementId": 3 }
+      ],
+      "prices": [
         {
-          "propertyId": 3,
-          "orgId": "ORG003",
-          "projectId": 103,
-          "structureId": 204,
-          "propertyName": "Cityscape Towers",
-          "propertyTypeCode": "COMMERCIAL",
-          "statusCode": "UNDER_CONSTRUCTION",
-          "addressLine1": "89 Business Bay",
-          "addressLine2": "Tower A",
-          "landmark": "Opposite Metro Station",
-          "locality": "Central Zone",
-          "city": "Dubai",
-          "state": "Dubai",
-          "country": "United Arab Emirates",
-          "pincode": "00000",
-          "createdBy": "developer_user",
-          "createdAt": "2025-07-10T09:30:00Z",
-          "updatedBy": "developer_user",
-          "updatedAt": "2025-09-10T12:15:00Z",
-          "features": [
-            { "name": "Floors", "value": "10", "featureId": 6 },
-            { "name": "Parking", "value": "Available", "featureId": 7 }
-          ],
-          "measurements": [
-            { "type": "Carpet Area", "measurement": 30000, "unitCode": "sqft", "measurementId": 4 }
-          ],
-          "prices": [
-            {
-              "priceType": "Sale",
-              "basePrice": 9500000,
-              "offerPrice": 9300000,
-              "currency": "AED",
-              "validFrom": "2025-09-01T00:00:00Z",
-              "validTo": "2026-03-31T23:59:59Z",
-              "priceId": 4
-            }
-          ],
-          "images": [
-            { "fileBytes": "https://i.ibb.co/4RyKN9BH/property3.webp" }
-          ]
-        },
+          "priceType": "Sale",
+          "basePrice": 1250000,
+          "offerPrice": 1200000,
+          "currency": "CAD",
+          "validFrom": "2025-08-01T00:00:00Z",
+          "validTo": "2025-12-31T23:59:59Z",
+          "priceId": 3
+        }
+      ],
+      "images": [
         {
-          "propertyId": 4,
-          "orgId": "ORG004",
-          "projectId": 104,
-          "structureId": 205,
-          "propertyName": "Greenfield Residency",
-          "propertyTypeCode": "RESIDENTIAL",
-          "statusCode": "INACTIVE",
-          "addressLine1": "77 Eco Street",
-          "addressLine2": "Tower 2",
-          "landmark": "Next to Green Park",
-          "locality": "Suburbia",
-          "city": "Bangalore",
-          "state": "Karnataka",
-          "country": "India",
-          "pincode": "560001",
-          "createdBy": "builder_user",
-          "createdAt": "2025-05-20T07:00:00Z",
-          "updatedBy": "admin_user",
-          "updatedAt": "2025-08-01T11:30:00Z",
-          "features": [
-            { "name": "Bedrooms", "value": "3", "featureId": 8 },
-            { "name": "Bathrooms", "value": "2", "featureId": 9 },
-            { "name": "Balcony", "value": "Yes", "featureId": 10 }
-          ],
-          "measurements": [
-            { "type": "Built-Up Area", "measurement": 1100, "unitCode": "sqft", "measurementId": 5 }
-          ],
-          "prices": [
-            {
-              "priceType": "Rent",
-              "basePrice": 20000,
-              "offerPrice": 19000,
-              "currency": "INR",
-              "validFrom": "2025-09-01T00:00:00Z",
-              "validTo": "2026-02-28T23:59:59Z",
-              "priceId": 5
-            }
-          ],
-          "images": [
-            { "fileBytes": "https://i.ibb.co/cSW6CfBW/property4.jpg" }
-          ]
-        },
+        "fileBytes":"https://i.ibb.co/f39j2YP/property2.jpg"
+        }
+      ]
+    },
+    {
+      "propertyId": 3,
+      "orgId": "ORG003",
+      "projectId": 103,
+      "structureId": 204,
+      "propertyName": "Cityscape Towers",
+      "propertyTypeCode": "COMMERCIAL",
+      "statusCode": "UNDER_CONSTRUCTION",
+      "addressLine1": "89 Business Bay",
+      "addressLine2": "Tower A",
+      "landmark": "Opposite Metro Station",
+      "locality": "Central Zone",
+      "city": "Dubai",
+      "state": "Dubai",
+      "country": "United Arab Emirates",
+      "pincode": "00000",
+      "createdBy": "developer_user",
+      "createdAt": "2025-07-10T09:30:00Z",
+      "updatedBy": "developer_user",
+      "updatedAt": "2025-09-10T12:15:00Z",
+      "features": [
+        { "name": "Floors", "value": "10", "featureId": 6 },
+        { "name": "Parking", "value": "Available", "featureId": 7 }
+      ],
+      "measurements": [
+        { "type": "Carpet Area", "measurement": 30000, "unitCode": "sqft", "measurementId": 4 }
+      ],
+      "prices": [
         {
-          "propertyId": 5,
-          "orgId": "ORG005",
-          "projectId": 105,
-          "structureId": 206,
-          "propertyName": "Hilltop Mansion",
-          "propertyTypeCode": "VILLA",
-          "statusCode": "ACTIVE",
-          "addressLine1": "5 Summit Road",
-          "addressLine2": "Hill View",
-          "landmark": "Near Hillview Point",
-          "locality": "Uptown",
-          "city": "Zurich",
-          "state": "Zurich",
-          "country": "Switzerland",
-          "pincode": "8001",
-          "createdBy": "admin_user",
-          "createdAt": "2025-09-10T10:10:10Z",
-          "updatedBy": "editor_user",
-          "updatedAt": "2025-09-25T09:00:00Z",
-          "features": [
-            { "name": "Bedrooms", "value": "6", "featureId": 11 },
-            { "name": "Bathrooms", "value": "5", "featureId": 12 },
-            { "name": "Swimming Pool", "value": "Yes", "featureId": 13 }
-          ],
-          "measurements": [
-            { "type": "Plot Area", "measurement": 4000, "unitCode": "sqft", "measurementId": 6 }
-          ],
-          "prices": [
-            {
-              "priceType": "Sale",
-              "basePrice": 1850000,
-              "offerPrice": 1800000,
-              "currency": "CHF",
-              "validFrom": "2025-09-01T00:00:00Z",
-              "validTo": "2026-03-31T23:59:59Z",
-              "priceId": 6
-            }
-          ],
-          "images": [
-            { "fileBytes": "https://i.ibb.co/fYCw5Kqz/property5.jpg" }
-          ]
+          "priceType": "Sale",
+          "basePrice": 9500000,
+          "offerPrice": 9300000,
+          "currency": "AED",
+          "validFrom": "2025-09-01T00:00:00Z",
+          "validTo": "2026-03-31T23:59:59Z",
+          "priceId": 4
+        }
+      ],
+      "images": [
+        {
+        "fileBytes":"https://i.ibb.co/4RyKN9BH/property3.webp"
+        }
+      ]
+    },
+    {
+      "propertyId": 4,
+      "orgId": "ORG004",
+      "projectId": 104,
+      "structureId": 205,
+      "propertyName": "Greenfield Residency",
+      "propertyTypeCode": "RESIDENTIAL",
+      "statusCode": "INACTIVE",
+      "addressLine1": "77 Eco Street",
+      "addressLine2": "Tower 2",
+      "landmark": "Next to Green Park",
+      "locality": "Suburbia",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "country": "India",
+      "pincode": "560001",
+      "createdBy": "builder_user",
+      "createdAt": "2025-05-20T07:00:00Z",
+      "updatedBy": "admin_user",
+      "updatedAt": "2025-08-01T11:30:00Z",
+      "features": [
+        { "name": "Bedrooms", "value": "3", "featureId": 8 },
+        { "name": "Bathrooms", "value": "2", "featureId": 9 },
+        { "name": "Balcony", "value": "Yes", "featureId": 10 }
+      ],
+      "measurements": [
+        { "type": "Built-Up Area", "measurement": 1100, "unitCode": "sqft", "measurementId": 5 }
+      ],
+      "prices": [
+        {
+          "priceType": "Rent",
+          "basePrice": 20000,
+          "offerPrice": 19000,
+          "currency": "INR",
+          "validFrom": "2025-09-01T00:00:00Z",
+          "validTo": "2026-02-28T23:59:59Z",
+          "priceId": 5
+        }
+      ],
+      "images": [
+        {
+        "fileBytes":"https://i.ibb.co/cSW6CfBW/property4.jpg"
+        }
+      ]
+    },
+    {
+      "propertyId": 5,
+      "orgId": "ORG005",
+      "projectId": 105,
+      "structureId": 206,
+      "propertyName": "Hilltop Mansion",
+      "propertyTypeCode": "VILLA",
+      "statusCode": "ACTIVE",
+      "addressLine1": "5 Summit Road",
+      "addressLine2": "Hill View",
+      "landmark": "Near Hillview Point",
+      "locality": "Uptown",
+      "city": "Zurich",
+      "state": "Zurich",
+      "country": "Switzerland",
+      "pincode": "8001",
+      "createdBy": "admin_user",
+      "createdAt": "2025-09-10T10:10:10Z",
+      "updatedBy": "editor_user",
+      "updatedAt": "2025-09-25T09:00:00Z",
+      "features": [
+        { "name": "Bedrooms", "value": "6", "featureId": 11 },
+        { "name": "Bathrooms", "value": "5", "featureId": 12 },
+        { "name": "Swimming Pool", "value": "Yes", "featureId": 13 }
+      ],
+      "measurements": [
+        { "type": "Plot Area", "measurement": 4000, "unitCode": "sqft", "measurementId": 6 }
+      ],
+      "prices": [
+        {
+          "priceType": "Sale",
+          "basePrice": 1850000,
+          "offerPrice": 1800000,
+          "currency": "CHF",
+          "validFrom": "2025-09-01T00:00:00Z",
+          "validTo": "2026-03-31T23:59:59Z",
+          "priceId": 6
+        }
+      ],
+      "images": [
+        {
+        "fileBytes":"https://i.ibb.co/fYCw5Kqz/property5.jpg"
         }
       ]
     }
@@ -466,4 +472,156 @@
   },
   "status": 200,
   "detail": "Success"
-}]}
+}
+],
+"leadInfo": [
+    {
+      "leads": [
+        {
+          "leadId": 1,
+          "agentId": "AG001",
+          "projectDetail": {
+            "project_name": "Sunrise Apartments",
+            "project_address": "New York",
+            "actual_project_price": 7400000,
+            "offer_project_price": 7200000,
+            "currency": "USD",
+            "validFrom": "2025-09-24T00:00:00Z",
+            "validTo": "2025-12-31T23:59:59Z"
+          },
+          "leadDetails": {
+            "name": "Bob",
+            "contactNo": "1234567890",
+            "email": "bob@gmail.com",
+            "leadSource": "ad",
+            "status": "Active"
+          },
+          "visitDetails": {
+            "visit_date_time": "2025-09-24T00:00:00Z",
+            "visited_project_id": 102,
+            "visit_outcome": "Intrested",
+            "gps_location": "516379qiujwsnn728",
+            "notes": "lead is interested with buying the project"
+          },
+          "leadQuatedPriceRange": {
+            "startPriceRange": 6800000,
+            "endPriceRangePrice": 7000000,
+            "currency": "USD"
+          },
+          "vistUpdates": {
+            "latest_visit": "2025-09-24T00:00:00Z",
+            "output": "enquired about next steps"
+          }
+        },
+        {
+          "leadId": 2,
+          "agentId": "AG002",
+          "projectDetail": {
+            "project_name": "Greenwood Villas",
+            "project_address": "Los Angeles",
+            "actual_project_price": 6500000,
+            "offer_project_price": 6300000,
+            "currency": "USD",
+            "validFrom": "2025-09-25T00:00:00Z",
+            "validTo": "2025-12-30T23:59:59Z"
+          },
+          "leadDetails": {
+            "name": "Alice",
+            "contactNo": "9876543210",
+            "email": "alice@gmail.com",
+            "leadSource": "referral",
+            "status": "Active"
+          },
+          "visitDetails": {
+            "visit_date_time": "2025-09-25T10:00:00Z",
+            "visited_project_id": 103,
+            "visit_outcome": "Negotiation",
+            "gps_location": "516379qiujwsnn729",
+            "notes": "Interested in negotiating price and terms"
+          },
+          "leadQuatedPriceRange": {
+            "startPriceRange": 6200000,
+            "endPriceRangePrice": 6400000,
+            "currency": "USD"
+          },
+          "vistUpdates": {
+            "latest_visit": "2025-09-25T10:00:00Z",
+            "output": "requested detailed brochure"
+          }
+        },
+        {
+          "leadId": 3,
+          "agentId": "AG003",
+          "projectDetail": {
+            "project_name": "Lakeside Residency",
+            "project_address": "Chicago",
+            "actual_project_price": 5000000,
+            "offer_project_price": 4800000,
+            "currency": "USD",
+            "validFrom": "2025-09-26T00:00:00Z",
+            "validTo": "2025-12-29T23:59:59Z"
+          },
+          "leadDetails": {
+            "name": "Charlie",
+            "contactNo": "1122334455",
+            "email": "charlie@gmail.com",
+            "leadSource": "website",
+            "status": "Active"
+          },
+          "visitDetails": {
+            "visit_date_time": "2025-09-26T14:00:00Z",
+            "visited_project_id": 104,
+            "visit_outcome": "Follow-up Required",
+            "gps_location": "516379qiujwsnn730",
+            "notes": "Needs to consult family before deciding"
+          },
+          "leadQuatedPriceRange": {
+            "startPriceRange": 4700000,
+            "endPriceRangePrice": 4900000,
+            "currency": "USD"
+          },
+          "vistUpdates": {
+            "latest_visit": "2025-09-26T14:00:00Z",
+            "output": "scheduled next visit for next week"
+          }
+        },
+        {
+          "leadId": 4,
+          "agentId": "AG004",
+          "projectDetail": {
+            "project_name": "Skyline Towers",
+            "project_address": "San Francisco",
+            "actual_project_price": 9000000,
+            "offer_project_price": 8800000,
+            "currency": "USD",
+            "validFrom": "2025-09-27T00:00:00Z",
+            "validTo": "2025-12-28T23:59:59Z"
+          },
+          "leadDetails": {
+            "name": "Diana",
+            "contactNo": "5566778899",
+            "email": "diana@gmail.com",
+            "leadSource": "event",
+            "status": "Active"
+          },
+          "visitDetails": {
+            "visit_date_time": "2025-09-27T16:00:00Z",
+            "visited_project_id": 105,
+            "visit_outcome": "Not Interested",
+            "gps_location": "516379qiujwsnn731",
+            "notes": "Not interested due to budget constraints"
+          },
+          "leadQuatedPriceRange": {
+            "startPriceRange": 8700000,
+            "endPriceRangePrice": 8900000,
+            "currency": "USD"
+          },
+          "vistUpdates": {
+            "latest_visit": "2025-09-27T16:00:00Z",
+            "output": "marked as not interested"
+          }
+        }
+      ]
+    }
+  ]
+}
