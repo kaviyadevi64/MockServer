@@ -620,7 +620,44 @@
             "latest_visit": "2025-09-27T16:00:00Z",
             "output": "marked as not interested"
           }
+        },
+         {
+          "leadId": 5,
+          "agentId": "AG005",
+          "projectDetail": {
+            "project_name": "Sunrise Apartments",
+            "project_address": "New York",
+            "actual_project_price": 7600000,
+            "offer_project_price": 7400000,
+            "currency": "USD",
+            "validFrom": "2025-10-11T00:00:00Z",
+            "validTo": "2025-12-28T23:59:59Z"
+          },
+          "leadDetails": {
+            "name": "John",
+            "contactNo": "1234567890",
+            "email": "john@gmail.com",
+            "leadSource": "website",
+            "status": "Active"
+          },
+          "visitDetails": {
+            "visit_date_time": "2025-10-13T10:25:00Z",
+            "visited_project_id": 105,
+            "visit_outcome": "",
+            "gps_location": "516379qiujwsnn731",
+            "notes": "Interested in buying"
+          },
+          "leadQuatedPriceRange": {
+            "startPriceRange": 7100000,
+            "endPriceRangePrice": 7300000,
+            "currency": "USD"
+          },
+          "vistUpdates": {
+            "latest_visit": "2025-10-13T10:25:00Z",
+            "output": "marked as interested"
+          }
         }
+
       ]
     }
   ]
