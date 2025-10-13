@@ -638,12 +638,12 @@
             "contactNo": "1234567890",
             "email": "john@gmail.com",
             "leadSource": "website",
-            "status": "Active"
+            "status": "Interested"
           },
           "visitDetails": {
             "visit_date_time": "2025-10-13T10:25:00Z",
             "visited_project_id": 105,
-            "visit_outcome": "",
+            "visit_outcome": "Initial Enquiry",
             "gps_location": "516379qiujwsnn731",
             "notes": "Interested in buying"
           },
