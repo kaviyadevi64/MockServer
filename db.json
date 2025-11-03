@@ -494,6 +494,7 @@
             "contactNo": "1234567890",
             "email": "bob@gmail.com",
             "leadSource": "ad",
+            "priority":"Medium",
             "status": "Active"
           },
           "visitDetails": {
@@ -530,6 +531,7 @@
             "contactNo": "9876543210",
             "email": "alice@gmail.com",
             "leadSource": "referral",
+            "priority":"Low",
             "status": "Active"
           },
           "visitDetails": {
@@ -566,6 +568,7 @@
             "contactNo": "1122334455",
             "email": "charlie@gmail.com",
             "leadSource": "website",
+            "priority":"High",
             "status": "Active"
           },
           "visitDetails": {
@@ -602,7 +605,8 @@
             "contactNo": "5566778899",
             "email": "diana@gmail.com",
             "leadSource": "event",
-            "status": "Active"
+            "priority":"Medium",
+            "status": "Interested"
           },
           "visitDetails": {
             "visit_date_time": "2025-09-27T16:00:00Z",
@@ -638,6 +642,7 @@
             "contactNo": "1234567890",
             "email": "john@gmail.com",
             "leadSource": "website",
+            "priority":"Low",
             "status": "Interested"
           },
           "visitDetails": {
