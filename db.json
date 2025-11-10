@@ -483,6 +483,8 @@
           "projectDetail": {
             "project_name": "Sunrise Apartments",
             "project_address": "New York",
+            "visited_project_id": 102,
+            "assigned_to": "John Doe",
             "actual_project_price": 7400000,
             "offer_project_price": 7200000,
             "currency": "USD",
@@ -490,29 +492,34 @@
             "validTo": "2025-12-31T23:59:59Z"
           },
           "leadDetails": {
-            "name": "Bob",
-            "contactNo": "1234567890",
-            "email": "bob@gmail.com",
-            "leadSource": "ad",
-            "priority":"Medium",
-            "status": "FollowUp"
+            "status": "FollowUp",
+            "priority": "High",
+            "source": "Online",
+            "contactNo": "1122334455",
+            "email": "amaya@123",
+            "created": "2025-09-10T23:59:59Z",
+            "last_contacted": "2025-09-12T23:59:59Z"
           },
-          "visitDetails": {
-            "visit_date_time": "2025-09-24T00:00:00Z",
-            "visited_project_id": 102,
-            "visit_outcome": "Intrested",
-            "gps_location": "516379qiujwsnn728",
-            "notes": "lead is interested with buying the project"
-          },
-          "leadQuatedPriceRange": {
-            "startPriceRange": 6800000,
-            "endPriceRangePrice": 7000000,
-            "currency": "USD"
-          },
-          "vistUpdates": {
-            "latest_visit": "2025-09-24T00:00:00Z",
-            "output": "enquired about next steps"
-          }
+          "visitDetails": [
+            {
+              "visit_date_time": "2025-09-24T00:00:00Z",
+              "status": "Interested",
+              "gps_location": "516379qiujwsnn728",
+              "visit_outcome": "Client showed interest in 2 BHK units. Requested pricing details."
+            },
+            {
+              "visit_date_time": "2025-09-24T00:00:00Z",
+              "status": "FollowUp",
+              "gps_location": "516379qiujwsnn728",
+              "visit_outcome": "Follow-up visit. Client wants to compare with other projects."
+            },
+            {
+              "visit_date_time": "2025-09-05T11:00:00Z",
+              "status": "Interested",
+              "gps_location": "516379qiujwsnn728",
+              "visit_outcome": "Initial site visit. Client wants to compare with other projects."
+            }
+          ]
         },
         {
           "leadId": 2,
@@ -520,6 +527,8 @@
           "projectDetail": {
             "project_name": "Greenwood Villas",
             "project_address": "Los Angeles",
+            "visited_project_id": 103,
+            "assigned_to": "Emily Carter",
             "actual_project_price": 6500000,
             "offer_project_price": 6300000,
             "currency": "USD",
@@ -527,29 +536,22 @@
             "validTo": "2025-12-30T23:59:59Z"
           },
           "leadDetails": {
-            "name": "Alice",
+            "status": "FollowUp",
+            "priority": "Low",
+            "source": "Referral",
             "contactNo": "9876543210",
             "email": "alice@gmail.com",
-            "leadSource": "referral",
-            "priority":"Low",
-            "status": "FollowUp"
+            "created": "2025-09-15T00:00:00Z",
+            "last_contacted": "2025-09-25T10:00:00Z"
           },
-          "visitDetails": {
-            "visit_date_time": "2025-09-25T10:00:00Z",
-            "visited_project_id": 103,
-            "visit_outcome": "Negotiation",
-            "gps_location": "516379qiujwsnn729",
-            "notes": "Interested in negotiating price and terms"
-          },
-          "leadQuatedPriceRange": {
-            "startPriceRange": 6200000,
-            "endPriceRangePrice": 6400000,
-            "currency": "USD"
-          },
-          "vistUpdates": {
-            "latest_visit": "2025-09-25T10:00:00Z",
-            "output": "requested detailed brochure"
-          }
+          "visitDetails": [
+            {
+              "visit_date_time": "2025-09-25T10:00:00Z",
+              "status": "Negotiation",
+              "gps_location": "516379qiujwsnn729",
+              "visit_outcome": "Interested in negotiating price and terms. Requested detailed brochure."
+            }
+          ]
         },
         {
           "leadId": 3,
@@ -557,6 +559,8 @@
           "projectDetail": {
             "project_name": "Lakeside Residency",
             "project_address": "Chicago",
+            "visited_project_id": 104,
+            "assigned_to": "Michael Lee",
             "actual_project_price": 5000000,
             "offer_project_price": 4800000,
             "currency": "USD",
@@ -564,29 +568,22 @@
             "validTo": "2025-12-29T23:59:59Z"
           },
           "leadDetails": {
-            "name": "Charlie",
+            "status": "New",
+            "priority": "High",
+            "source": "Website",
             "contactNo": "1122334455",
             "email": "charlie@gmail.com",
-            "leadSource": "website",
-            "priority":"High",
-            "status": "New"
+            "created": "2025-09-20T00:00:00Z",
+            "last_contacted": "2025-09-26T14:00:00Z"
           },
-          "visitDetails": {
-            "visit_date_time": "2025-09-26T14:00:00Z",
-            "visited_project_id": 104,
-            "visit_outcome": "Interested",
-            "gps_location": "516379qiujwsnn730",
-            "notes": "Needs to consult family before deciding"
-          },
-          "leadQuatedPriceRange": {
-            "startPriceRange": 4700000,
-            "endPriceRangePrice": 4900000,
-            "currency": "USD"
-          },
-          "vistUpdates": {
-            "latest_visit": "2025-09-26T14:00:00Z",
-            "output": "scheduled next visit for next week"
-          }
+          "visitDetails": [
+            {
+              "visit_date_time": "2025-09-26T14:00:00Z",
+              "status": "Interested",
+              "gps_location": "516379qiujwsnn730",
+              "visit_outcome": "Needs to consult family before deciding. Scheduled next visit for next week."
+            }
+          ]
         },
         {
           "leadId": 4,
@@ -594,6 +591,8 @@
           "projectDetail": {
             "project_name": "Skyline Towers",
             "project_address": "San Francisco",
+            "visited_project_id": 105,
+            "assigned_to": "Olivia Brown",
             "actual_project_price": 9000000,
             "offer_project_price": 8800000,
             "currency": "USD",
@@ -601,36 +600,31 @@
             "validTo": "2025-12-28T23:59:59Z"
           },
           "leadDetails": {
-            "name": "Diana",
+            "status": "Interested",
+            "priority": "Medium",
+            "source": "Event",
             "contactNo": "5566778899",
             "email": "diana@gmail.com",
-            "leadSource": "event",
-            "priority":"Medium",
-            "status": "Interested"
+            "created": "2025-09-18T00:00:00Z",
+            "last_contacted": "2025-09-27T16:00:00Z"
           },
-          "visitDetails": {
-            "visit_date_time": "2025-09-27T16:00:00Z",
-            "visited_project_id": 105,
-            "visit_outcome": "Not Interested",
-            "gps_location": "516379qiujwsnn731",
-            "notes": "Not interested due to budget constraints"
-          },
-          "leadQuatedPriceRange": {
-            "startPriceRange": 8700000,
-            "endPriceRangePrice": 8900000,
-            "currency": "USD"
-          },
-          "vistUpdates": {
-            "latest_visit": "2025-09-27T16:00:00Z",
-            "output": "marked as not interested"
-          }
+          "visitDetails": [
+            {
+              "visit_date_time": "2025-09-27T16:00:00Z",
+              "status": "Not Interested",
+              "gps_location": "516379qiujwsnn731",
+              "visit_outcome": "Not interested due to budget constraints. Marked as not interested."
+            }
+          ]
         },
-         {
+        {
           "leadId": 5,
           "agentId": "AG005",
           "projectDetail": {
             "project_name": "Sunrise Apartments",
             "project_address": "New York",
+            "visited_project_id": 106,
+            "assigned_to": "David Johnson",
             "actual_project_price": 7600000,
             "offer_project_price": 7400000,
             "currency": "USD",
@@ -638,31 +632,23 @@
             "validTo": "2025-12-28T23:59:59Z"
           },
           "leadDetails": {
-            "name": "John",
+            "status": "Interested",
+            "priority": "Low",
+            "source": "Website",
             "contactNo": "1234567890",
             "email": "john@gmail.com",
-            "leadSource": "website",
-            "priority":"Low",
-            "status": "Interested"
+            "created": "2025-10-10T00:00:00Z",
+            "last_contacted": "2025-10-13T10:25:00Z"
           },
-          "visitDetails": {
-            "visit_date_time": "2025-10-13T10:25:00Z",
-            "visited_project_id": 105,
-            "visit_outcome": "Interested",
-            "gps_location": "516379qiujwsnn731",
-            "notes": "Interested in buying"
-          },
-          "leadQuatedPriceRange": {
-            "startPriceRange": 7100000,
-            "endPriceRangePrice": 7300000,
-            "currency": "USD"
-          },
-          "vistUpdates": {
-            "latest_visit": "2025-10-13T10:25:00Z",
-            "output": "marked as interested"
-          }
+          "visitDetails": [
+            {
+              "visit_date_time": "2025-10-13T10:25:00Z",
+              "status": "Interested",
+              "gps_location": "516379qiujwsnn732",
+              "visit_outcome": "Interested in buying. Marked as interested."
+            }
+          ]
         }
-
       ]
     }
   ]
