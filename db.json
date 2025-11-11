@@ -242,7 +242,7 @@
   ]
 }
 ],
-"propertyDetail1":[
+"propertyDetail1":
   {
   "data": {
     "propertyId": 1,
@@ -289,7 +289,7 @@
   },
   "status": 200,
   "detail": "Success"
-}],
+},
 "propertyDetail2":[
   {
   "data": {
