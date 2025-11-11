@@ -290,7 +290,7 @@
   "status": 200,
   "detail": "Success"
 },
-"propertyDetail2":[
+"propertyDetail2":
   {
   "data": {
     "propertyId": 2,
@@ -335,7 +335,7 @@
   },
   "status": 200,
   "detail": "Success"
-}],
+},
 "propertyDetail3":[
   {
   "data": {
@@ -474,7 +474,7 @@
   "detail": "Success"
 }
 ],
-"leadInfo": [
+"leadInfo": 
     {
       "leads": [
         {
@@ -651,5 +651,5 @@
         }
       ]
     }
-  ]
+  
 }
