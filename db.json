@@ -750,7 +750,9 @@
         "created": "2025-09-05T00:00:00.000Z",
         "last_contacted": "2025-11-10T00:00:00.000Z"
       },
-      "visitDetails": []
+      "visitDetails": [
+        
+      ]
     }
   ],
   "siteVisit":[
@@ -766,35 +768,56 @@
       "photos":"",
       "visit_outcome":"",
       "reschedule":"true",
-      "rescheduled_date":"2025-11-22T10:50:00.000"
+      "rescheduled_date":"2025-11-22T10:50:00.000",
+      "visit_details":[
+        {
+          "visit_location":"",
+          "visit_outcome":""
+          
+        }
+      ]
     },
     {
       "id":"2",
       "lead_name":"Raj Sharma",
-      "project_id":"121",
+      "project_id":"129",
       "status":"",
       "date_and_time":"2025-11-17T10:50:00.000",
       "project_name":"Sunrise Apartments",
-      "site_visit_status":"Rescheduled",
+      "site_visit_status":"Scheduled",
       "visit_location":"",
       "photos":"",
       "visit_outcome":"",
       "reschedule":"true",
-      "rescheduled_date":"2025-11-22T10:50:00.000"
+      "rescheduled_date":"2025-11-22T10:50:00.000",
+       "visit_details":[
+        {
+          "visit_location":"",
+          "visit_outcome":""
+          
+        }
+      ]
     },
     {
-      "id":"2",
+      "id":"3",
       "lead_name":"Amaya",
-      "project_id":"121",
+      "project_id":"120",
       "status":"",
       "date_and_time":"2025-11-17T10:50:00.000",
       "project_name":"Sunrise Apartments",
-      "site_visit_status":"Rescheduled",
+      "site_visit_status":"Scheduled",
       "visit_location":"",
       "photos":"",
       "visit_outcome":"",
-      "reschedule":"true",
-      "rescheduled_date":"2025-11-22T10:50:00.000"
+      "reschedule":"false",
+      "rescheduled_date":"2025-11-22T10:50:00.000",
+       "visit_details":[
+        {
+          "visit_location":"",
+          "visit_outcome":""
+          
+        }
+      ]
     }
   ] 
 }
