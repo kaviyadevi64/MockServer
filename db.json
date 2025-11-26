@@ -499,6 +499,7 @@
       },
       "visitDetails": [
         {
+          "visit_id":"1",
           "visit_stage":"open",
           "visit_scheduled_date_and_time":"2025-11-26T12:20:00.000",
           "scheduled_notes":"",
@@ -512,6 +513,7 @@
           }
         },
         {
+          "visit_id":"102",
           "visit_stage":"closed",
           "visit_scheduled_date_and_time":"2025-11-25T12:20:00.000",
           "scheduled_notes":"",
@@ -550,6 +552,7 @@
       },
       "visitDetails": [
         {
+          "visit_id":"101",
           "visit_stage":"open",
           "visit_scheduled_date_and_time":"2025-11-26T12:20:00.000",
           "scheduled_notes":"",
@@ -563,6 +566,7 @@
           }
         },
         {
+          "visit_id":"102",
           "visit_stage":"closed",
           "visit_scheduled_date_and_time":"2025-11-25T12:20:00.000",
           "scheduled_notes":"",
@@ -601,6 +605,7 @@
       },
     "visitDetails": [
         {
+          "visit_id":"101",
           "visit_stage":"open",
           "visit_scheduled_date_and_time":"2025-11-26T12:20:00.000",
           "scheduled_notes":"",
@@ -614,6 +619,7 @@
           }
         },
         {
+          "visit_id":"102",
           "visit_stage":"closed",
           "visit_scheduled_date_and_time":"2025-11-25T12:20:00.000",
           "scheduled_notes":"",
@@ -652,6 +658,7 @@
       },
       "visitDetails": [
         {
+          "visit_id":"101",
           "visit_stage":"open",
           "visit_scheduled_date_and_time":"2025-11-26T12:20:00.000",
           "scheduled_notes":"",
@@ -665,6 +672,7 @@
           }
         },
         {
+          "visit_id":"102",
           "visit_stage":"closed",
           "visit_scheduled_date_and_time":"2025-11-25T12:20:00.000",
           "scheduled_notes":"",
@@ -703,6 +711,7 @@
       },
       "visitDetails": [
         {
+          "visit_id":"101",
           "visit_stage":"open",
           "visit_scheduled_date_and_time":"2025-11-26T12:20:00.000",
           "scheduled_notes":"",
@@ -716,6 +725,7 @@
           }
         },
         {
+          "visit_id":"102",
           "visit_stage":"closed",
           "visit_scheduled_date_and_time":"2025-11-25T12:20:00.000",
           "scheduled_notes":"",
@@ -754,6 +764,7 @@
       },
      "visitDetails": [
         {
+          "visit_id":"101",
           "visit_stage":"open",
           "visit_scheduled_date_and_time":"2025-11-26T12:20:00.000",
           "scheduled_notes":"",
@@ -767,6 +778,7 @@
           }
         },
         {
+          "visit_id":"102",
           "visit_stage":"closed",
           "visit_scheduled_date_and_time":"2025-11-25T12:20:00.000",
           "scheduled_notes":"",
