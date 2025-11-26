@@ -499,32 +499,29 @@
       },
       "visitDetails": [
         {
-          "visit_stage":"open",
-          "visit_scheduled_date_and_time":"2025-11-26T12:20:00.000",
-          "scheduled_notes":"",
-          "visit_outcome":{
-            "duration":"",
-            "lat":"",
-            "long":"",
-            "outcome_status":"",
-            "notes":"",
-            "visit_status":""
-          }
+          "visit_date_time": "2025-11-13T00:00:00.000Z",
+          "status": "Interested",
+          "gps_location": "516379qiujwsnn728",
+          "visit_outcome": "Client showed interest in 2 BHK units. Requested pricing details."
         },
         {
-          "visit_stage":"closed",
-          "visit_scheduled_date_and_time":"2025-11-25T12:20:00.000",
-          "scheduled_notes":"",
-          "visit_outcome":{
-            "duration":"30 mins",
-            "lat":"+32.38729478",
-            "long":"-28.873928521",
-            "outcome_status":"Follow-Up needed",
-            "notes":"Cilent needs to explore other options",
-            "visit_status":"Completed"
-          }
+          "visit_date_time": "2025-11-14T09:10:00.000",
+          "status": "Scheduled",
+          "gps_location": "78jjjjjjjjgd5u5",
+          "visit_outcome": "Client showed interest"
+        },
+        {
+          "visit_date_time": "2025-11-24T18:41:00.000",
+          "status": "Scheduled",
+          "gps_location": "45233321dgtser",
+          "visit_outcome": "Latest visit scheduled"
+        },
+        {
+          "visit_date_time": "2025-11-17T12:26:00.000",
+          "status": "Scheduled",
+          "gps_location": "wrusysfywufs",
+          "visit_outcome": "disucssion"
         }
-
       ]
     },
     {
@@ -550,32 +547,11 @@
       },
       "visitDetails": [
         {
-          "visit_stage":"open",
-          "visit_scheduled_date_and_time":"2025-11-26T12:20:00.000",
-          "scheduled_notes":"",
-          "visit_outcome":{
-            "duration":"",
-            "lat":"",
-            "long":"",
-            "outcome_status":"",
-            "notes":"",
-            "visit_status":""
-          }
-        },
-        {
-          "visit_stage":"closed",
-          "visit_scheduled_date_and_time":"2025-11-25T12:20:00.000",
-          "scheduled_notes":"",
-          "visit_outcome":{
-            "duration":"30 mins",
-            "lat":"+32.38729478",
-            "long":"-28.873928521",
-            "outcome_status":"Follow-Up needed",
-            "notes":"Cilent needs to explore other options",
-            "visit_status":"Completed"
-          }
+          "visit_date_time": "2025-11-17T17:30:00.000",
+          "status": "Scheduled",
+          "gps_location": "gjyt785rfincf688888888886r",
+          "visit_outcome": "Initial site visit is scheduled"
         }
-
       ]
     },
     {
@@ -599,35 +575,7 @@
         "created": "2025-09-15T00:00:00.000Z",
         "last_contacted": "2025-11-22T00:00:00.000Z"
       },
-    "visitDetails": [
-        {
-          "visit_stage":"open",
-          "visit_scheduled_date_and_time":"2025-11-26T12:20:00.000",
-          "scheduled_notes":"",
-          "visit_outcome":{
-            "duration":"",
-            "lat":"",
-            "long":"",
-            "outcome_status":"",
-            "notes":"",
-            "visit_status":""
-          }
-        },
-        {
-          "visit_stage":"closed",
-          "visit_scheduled_date_and_time":"2025-11-25T12:20:00.000",
-          "scheduled_notes":"",
-          "visit_outcome":{
-            "duration":"30 mins",
-            "lat":"+32.38729478",
-            "long":"-28.873928521",
-            "outcome_status":"Follow-Up needed",
-            "notes":"Cilent needs to explore other options",
-            "visit_status":"Completed"
-          }
-        }
-
-      ]
+      "visitDetails": []
     },
     {
       "id": "4",
@@ -652,32 +600,11 @@
       },
       "visitDetails": [
         {
-          "visit_stage":"open",
-          "visit_scheduled_date_and_time":"2025-11-26T12:20:00.000",
-          "scheduled_notes":"",
-          "visit_outcome":{
-            "duration":"",
-            "lat":"",
-            "long":"",
-            "outcome_status":"",
-            "notes":"",
-            "visit_status":""
-          }
-        },
-        {
-          "visit_stage":"closed",
-          "visit_scheduled_date_and_time":"2025-11-25T12:20:00.000",
-          "scheduled_notes":"",
-          "visit_outcome":{
-            "duration":"30 mins",
-            "lat":"+32.38729478",
-            "long":"-28.873928521",
-            "outcome_status":"Follow-Up needed",
-            "notes":"Cilent needs to explore other options",
-            "visit_status":"Completed"
-          }
+          "visit_date_time": "2025-11-15T09:00:00.000",
+          "status": "Scheduled",
+          "gps_location": "uijnr7969yiuhjdddd79v",
+          "visit_outcome": "Initial visit scheduled"
         }
-
       ]
     },
     {
@@ -703,32 +630,11 @@
       },
       "visitDetails": [
         {
-          "visit_stage":"open",
-          "visit_scheduled_date_and_time":"2025-11-26T12:20:00.000",
-          "scheduled_notes":"",
-          "visit_outcome":{
-            "duration":"",
-            "lat":"",
-            "long":"",
-            "outcome_status":"",
-            "notes":"",
-            "visit_status":""
-          }
-        },
-        {
-          "visit_stage":"closed",
-          "visit_scheduled_date_and_time":"2025-11-25T12:20:00.000",
-          "scheduled_notes":"",
-          "visit_outcome":{
-            "duration":"30 mins",
-            "lat":"+32.38729478",
-            "long":"-28.873928521",
-            "outcome_status":"Follow-Up needed",
-            "notes":"Cilent needs to explore other options",
-            "visit_status":"Completed"
-          }
+          "visit_date_time": "2025-11-17T10:50:00.000",
+          "status": "Scheduled",
+          "gps_location": "adxq421dwq",
+          "visit_outcome": "Client Interested  in the project"
         }
-
       ]
     },
     {
@@ -752,35 +658,7 @@
         "created": "2025-08-10T00:00:00.000Z",
         "last_contacted": "2025-11-18T00:00:00.000Z"
       },
-     "visitDetails": [
-        {
-          "visit_stage":"open",
-          "visit_scheduled_date_and_time":"2025-11-26T12:20:00.000",
-          "scheduled_notes":"",
-          "visit_outcome":{
-            "duration":"",
-            "lat":"",
-            "long":"",
-            "outcome_status":"",
-            "notes":"",
-            "visit_status":""
-          }
-        },
-        {
-          "visit_stage":"closed",
-          "visit_scheduled_date_and_time":"2025-11-25T12:20:00.000",
-          "scheduled_notes":"",
-          "visit_outcome":{
-            "duration":"30 mins",
-            "lat":"+32.38729478",
-            "long":"-28.873928521",
-            "outcome_status":"Follow-Up needed",
-            "notes":"Cilent needs to explore other options",
-            "visit_status":"Completed"
-          }
-        }
-
-      ]
+      "visitDetails": []
     },
     {
       "id": "7",
