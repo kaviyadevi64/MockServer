@@ -504,7 +504,8 @@
           "visit_scheduled_date_and_time":"2025-11-26T12:20:00.000",
           "scheduled_notes":"",
           "visit_outcome":{
-            "duration":"",
+            "start_time":"",
+            "end_time":"",
             "lat":"",
             "long":"",
             "outcome_status":"",
@@ -518,7 +519,8 @@
           "visit_scheduled_date_and_time":"2025-11-25T12:20:00.000",
           "scheduled_notes":"",
           "visit_outcome":{
-            "duration":"30 mins",
+            "start_time":"",
+            "end_time":"",
             "lat":"+32.38729478",
             "long":"-28.873928521",
             "outcome_status":"Follow-Up needed",
@@ -557,7 +559,8 @@
           "visit_scheduled_date_and_time":"2025-11-28T12:20:00.000",
           "scheduled_notes":"",
           "visit_outcome":{
-            "duration":"",
+            "start_time":"",
+            "end_time":"",
             "lat":"",
             "long":"",
             "outcome_status":"",
@@ -571,7 +574,8 @@
           "visit_scheduled_date_and_time":"2025-11-25T12:20:00.000",
           "scheduled_notes":"",
           "visit_outcome":{
-            "duration":"30 mins",
+            "start_time":"",
+            "end_time":"",
             "lat":"+32.38729478",
             "long":"-28.873928521",
             "outcome_status":"Follow-Up needed",
@@ -610,7 +614,8 @@
           "visit_scheduled_date_and_time":"2025-11-25T12:20:00.000",
           "scheduled_notes":"",
           "visit_outcome":{
-            "duration":"",
+            "start_time":"",
+            "end_time":"",
             "lat":"",
             "long":"",
             "outcome_status":"",
@@ -624,7 +629,8 @@
           "visit_scheduled_date_and_time":"2025-11-25T12:20:00.000",
           "scheduled_notes":"",
           "visit_outcome":{
-            "duration":"30 mins",
+            "start_time":"",
+            "end_time":"",
             "lat":"+32.38729478",
             "long":"-28.873928521",
             "outcome_status":"Follow-Up needed",
@@ -663,7 +669,8 @@
           "visit_scheduled_date_and_time":"2025-11-25T12:20:00.000",
           "scheduled_notes":"",
           "visit_outcome":{
-            "duration":"",
+            "start_time":"",
+            "end_time":"",
             "lat":"",
             "long":"",
             "outcome_status":"",
@@ -677,7 +684,8 @@
           "visit_scheduled_date_and_time":"2025-11-25T12:20:00.000",
           "scheduled_notes":"",
           "visit_outcome":{
-            "duration":"30 mins",
+            "start_time":"",
+            "end_time":"",
             "lat":"+32.38729478",
             "long":"-28.873928521",
             "outcome_status":"Follow-Up needed",
@@ -716,7 +724,8 @@
           "visit_scheduled_date_and_time":"2025-11-26T12:20:00.000",
           "scheduled_notes":"",
           "visit_outcome":{
-            "duration":"",
+            "start_time":"",
+            "end_time":"",
             "lat":"",
             "long":"",
             "outcome_status":"",
@@ -730,7 +739,8 @@
           "visit_scheduled_date_and_time":"2025-11-25T12:20:00.000",
           "scheduled_notes":"",
           "visit_outcome":{
-            "duration":"30 mins",
+            "start_time":"",
+            "end_time":"",
             "lat":"+32.38729478",
             "long":"-28.873928521",
             "outcome_status":"Follow-Up needed",
@@ -769,7 +779,8 @@
           "visit_scheduled_date_and_time":"2025-11-26T12:20:00.000",
           "scheduled_notes":"",
           "visit_outcome":{
-            "duration":"",
+           "start_time":"",
+            "end_time":"",
             "lat":"",
             "long":"",
             "outcome_status":"",
@@ -783,7 +794,8 @@
           "visit_scheduled_date_and_time":"2025-11-25T12:20:00.000",
           "scheduled_notes":"",
           "visit_outcome":{
-            "duration":"30 mins",
+            "start_time":"",
+            "end_time":"",
             "lat":"+32.38729478",
             "long":"-28.873928521",
             "outcome_status":"Follow-Up needed",
