@@ -484,6 +484,7 @@
       "projectDetail": {
         "project_name": "Sunrise Apartments",
         "project_address": "New York",
+        "unit_name":"SA-100",
         "assigned_to": "John Doe",
         "validFrom": "2025-09-24T00:00:00.000Z",
         "validTo": "2025-12-31T23:59:59.000Z"
@@ -539,6 +540,7 @@
       "projectDetail": {
         "project_name": "Green Valley Homes",
         "project_address": "Los Angeles",
+        "unit_name":"GWH-100",
         "assigned_to": "Emily Clark",
         "validFrom": "2025-08-01T00:00:00.000Z",
         "validTo": "2025-12-15T23:59:59.000Z"
@@ -594,6 +596,7 @@
       "projectDetail": {
         "project_name": "Ocean Breeze Villas",
         "project_address": "Miami",
+        "unit_name":"OBV-101",
         "assigned_to": "John Doe",
         "validFrom": "2025-07-01T00:00:00.000Z",
         "validTo": "2025-11-30T23:59:59.000Z"
@@ -649,6 +652,7 @@
       "projectDetail": {
         "project_name": "Lakeview Residency",
         "project_address": "Chicago",
+        "unit_name":"LR-100",
         "assigned_to": "Michael Lee",
         "validFrom": "2025-08-20T00:00:00.000Z",
         "validTo": "2025-12-20T23:59:59.000Z"
@@ -704,6 +708,7 @@
       "projectDetail": {
         "project_name": "Royal Heights",
         "project_address": "Texas",
+        "unit_name":"RH-100",
         "assigned_to": "Emily Clark",
         "validFrom": "2025-10-01T00:00:00.000Z",
         "validTo": "2025-12-31T23:59:59.000Z"
@@ -748,7 +753,6 @@
             "visit_status":"Completed"
           }
         }
-
       ]
     },
     {
@@ -759,6 +763,7 @@
       "projectDetail": {
         "project_name": "Hilltop Enclave",
         "project_address": "Denver",
+        "unit_name":"HE-90",
         "assigned_to": "Sophia Turner",
         "validFrom": "2025-06-01T00:00:00.000Z",
         "validTo": "2025-12-15T23:59:59.000Z"
@@ -813,7 +818,8 @@
       "agentId": "AG005",
       "projectDetail": {
         "project_name": "Palm Residency",
-        "project_address": "Florida",
+        "project_address": "Florida",        
+        "unit_name":"PR-101",
         "assigned_to": "Chris Adams",
         "validFrom": "2025-07-10T00:00:00.000Z",
         "validTo": "2025-12-25T23:59:59.000Z"
@@ -837,7 +843,7 @@
       "projectDetail": {
         "project_name": "Maple Woods",
         "project_address": "Seattle",
-        "assigned_to": "John Doe",
+        "unit_name": "MW-100",
         "validFrom": "2025-08-15T00:00:00.000Z",
         "validTo": "2025-12-10T23:59:59.000Z"
       },
@@ -860,6 +866,7 @@
       "projectDetail": {
         "project_name": "Cityscape Towers",
         "project_address": "Pune",
+        "unit_name":"CT-101",
         "assigned_to": "Michael Lee",
         "validFrom": "2025-09-01T00:00:00.000Z",
         "validTo": "2025-12-20T23:59:59.000Z"
@@ -883,6 +890,7 @@
       "projectDetail": {
         "project_name": "Golden Meadows",
         "project_address": "San Diego",
+        "unit_name":"GM-100",
         "assigned_to": "Sophia Turner",
         "validFrom": "2025-07-15T00:00:00.000Z",
         "validTo": "2025-12-30T23:59:59.000Z"
