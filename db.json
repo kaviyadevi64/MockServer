@@ -476,439 +476,501 @@
 ],
 
   "leadInfo": [
-    {
-      "id": "1",
-      "leadId": 1,
-      "leadName": "Amaya",
-      "agentId": "AG001",
-      "projectDetail": {
-        "project_name": "Sunrise Apartments",
-        "project_address": "New York",
-        "unit_name":"SA-100",
-        "assigned_to": "John Doe",
-        "validFrom": "2025-09-24T00:00:00.000Z",
-        "validTo": "2025-12-31T23:59:59.000Z"
-      },
-      "leadDetails": {
-        "status": "Follow Up",
-        "priority": "High",
-        "source": "Online",
-        "contactNo": "123456789",
-        "email": "amaya123@gmail.com",
-        "created": "2025-09-24T00:00:00.000Z",
-        "last_contacted": "2025-11-13T00:00:00.000Z"
-      },
-      "visitDetails": [
-        {
-          "visit_id":"1",
-          "visit_stage":"open",
-          "visit_scheduled_date_and_time":"2025-11-26T12:20:00.000",
-          "scheduled_notes":"",
-          "visit_outcome":{
-            "start_time":"",
-            "end_time":"",
-            "lat":"",
-            "long":"",
-            "outcome_status":"",
-            "notes":"",
-            "visit_status":"Scheduled"
-          }
-        },
-        {
-          "visit_id":"102",
-          "visit_stage":"closed",
-          "visit_scheduled_date_and_time":"2025-11-25T12:20:00.000",
-          "scheduled_notes":"",
-          "visit_outcome":{
-            "start_time":"",
-            "end_time":"",
-            "lat":"+32.38729478",
-            "long":"-28.873928521",
-            "outcome_status":"Follow-Up needed",
-            "notes":"Cilent needs to explore other options",
-            "visit_status":"Completed"
-          }
-        }
-
-      ]
+  {
+    "id": "1",
+    "leadId": 1,
+    "leadName": "Amaya",
+    "agentId": "AG001",
+    "projectDetail": {
+      "project_name": "Sunrise Apartments",
+      "project_address": "New York",
+      "unit_name": "SA-100",
+      "assigned_to": "John Doe",
+      "validFrom": "2025-09-24T00:00:00.000Z",
+      "validTo": "2025-12-31T23:59:59.000Z"
     },
-    {
-      "id": "2",
-      "leadId": 2,
-      "leadName": "Rohit Shan",
-      "agentId": "AG002",
-      "projectDetail": {
-        "project_name": "Green Valley Homes",
-        "project_address": "Los Angeles",
-        "unit_name":"GWH-100",
-        "assigned_to": "Emily Clark",
-        "validFrom": "2025-08-01T00:00:00.000Z",
-        "validTo": "2025-12-15T23:59:59.000Z"
-      },
-      "leadDetails": {
-        "status": "Follow Up",
-        "priority": "Low",
-        "source": "Referral",
-        "contactNo": "9876543210",
-        "email": "rohit.sharma@example.com",
-        "created": "2025-10-10T00:00:00.000Z",
-        "last_contacted": "2025-11-20T00:00:00.000Z"
-      },
-      "visitDetails": [
-        {
-          "visit_id":"101",
-          "visit_stage":"open",
-          "visit_scheduled_date_and_time":"2025-11-28T12:20:00.000",
-          "scheduled_notes":"",
-          "visit_outcome":{
-            "start_time":"",
-            "end_time":"",
-            "lat":"",
-            "long":"",
-            "outcome_status":"",
-            "notes":"",
-             "visit_status":"Rescheduled"
-          }
-        },
-        {
-          "visit_id":"102",
-          "visit_stage":"closed",
-          "visit_scheduled_date_and_time":"2025-11-25T12:20:00.000",
-          "scheduled_notes":"",
-          "visit_outcome":{
-            "start_time":"",
-            "end_time":"",
-            "lat":"+32.38729478",
-            "long":"-28.873928521",
-            "outcome_status":"Follow-Up needed",
-            "notes":"Cilent needs to explore other options",
-            "visit_status":"Completed"
-          }
-        }
-
-      ]
+    "leadDetails": {
+      "status": "Follow Up",
+      "priority": "High",
+      "source": "Online",
+      "contactNo": "123456789",
+      "email": "amaya123@gmail.com",
+      "created": "2025-09-24T00:00:00.000Z",
+      "last_contacted": "2025-11-13T00:00:00.000Z"
     },
-    {
-      "id": "3",
-      "leadId": 3,
-      "leadName": "Sara Johnson",
-      "agentId": "AG001",
-      "projectDetail": {
-        "project_name": "Ocean Breeze Villas",
-        "project_address": "Miami",
-        "unit_name":"OBV-101",
-        "assigned_to": "John Doe",
-        "validFrom": "2025-07-01T00:00:00.000Z",
-        "validTo": "2025-11-30T23:59:59.000Z"
-      },
-      "leadDetails": {
-        "status": "Interested",
-        "priority": "High",
-        "source": "Walk-in",
-        "contactNo": "9988776655",
-        "email": "sarahj@example.com",
-        "created": "2025-09-15T00:00:00.000Z",
-        "last_contacted": "2025-11-22T00:00:00.000Z"
-      },
     "visitDetails": [
-        {
-          "visit_id":"101",
-          "visit_stage":"open",
-          "visit_scheduled_date_and_time":"2025-11-25T12:20:00.000",
-          "scheduled_notes":"",
-          "visit_outcome":{
-            "start_time":"",
-            "end_time":"",
-            "lat":"",
-            "long":"",
-            "outcome_status":"",
-            "notes":"",
-            "visit_status":"Missed"
-          }
-        },
-        {
-          "visit_id":"102",
-          "visit_stage":"closed",
-          "visit_scheduled_date_and_time":"2025-11-25T12:20:00.000",
-          "scheduled_notes":"",
-          "visit_outcome":{
-            "start_time":"",
-            "end_time":"",
-            "lat":"+32.38729478",
-            "long":"-28.873928521",
-            "outcome_status":"Follow-Up needed",
-            "notes":"Cilent needs to explore other options",
-            "visit_status":"Completed"
-          }
+      {
+        "visit_id": "1",
+        "visit_stage": "open",
+        "visit_scheduled_date_and_time": "2025-11-26T12:20:00.000",
+        "scheduled_notes": "",
+        "visit_outcome": {
+          "start_time": "",
+          "end_time": "",
+          "lat": "",
+          "long": "",
+          "outcome_status": "",
+          "notes": "",
+          "visit_status": "Scheduled"
         }
-
-      ]
-    },
-    {
-      "id": "4",
-      "leadId": 4,
-      "leadName": "Karan ",
-      "agentId": "AG003",
-      "projectDetail": {
-        "project_name": "Lakeview Residency",
-        "project_address": "Chicago",
-        "unit_name":"LR-100",
-        "assigned_to": "Michael Lee",
-        "validFrom": "2025-08-20T00:00:00.000Z",
-        "validTo": "2025-12-20T23:59:59.000Z"
       },
-      "leadDetails": {
-        "status": "Follow Up",
-        "priority": "Medium",
-        "source": "Social Media",
-        "contactNo": "7766554433",
-        "email": "karan.patel@example.com",
-        "created": "2025-10-05T00:00:00.000Z",
-        "last_contacted": "2025-11-23T00:00:00.000Z"
-      },
-      "visitDetails": [
-        {
-          "visit_id":"101",
-          "visit_stage":"open",
-          "visit_scheduled_date_and_time":"2025-11-25T12:20:00.000",
-          "scheduled_notes":"",
-          "visit_outcome":{
-            "start_time":"",
-            "end_time":"",
-            "lat":"",
-            "long":"",
-            "outcome_status":"",
-            "notes":"",
-            "visit_status":"Cancelled"
-          }
-        },
-        {
-          "visit_id":"102",
-          "visit_stage":"closed",
-          "visit_scheduled_date_and_time":"2025-11-25T12:20:00.000",
-          "scheduled_notes":"",
-          "visit_outcome":{
-            "start_time":"",
-            "end_time":"",
-            "lat":"+32.38729478",
-            "long":"-28.873928521",
-            "outcome_status":"Follow-Up needed",
-            "notes":"Cilent needs to explore other options",
-            "visit_status":"Completed"
-          }
+      {
+        "visit_id": "102",
+        "visit_stage": "closed",
+        "visit_scheduled_date_and_time": "2025-11-25T12:20:00.000",
+        "scheduled_notes": "",
+        "visit_outcome": {
+          "start_time": "",
+          "end_time": "",
+          "lat": "+32.38729478",
+          "long": "-28.873928521",
+          "outcome_status": "Follow-Up needed",
+          "notes": "Cilent needs to explore other options",
+          "visit_status": "Completed"
         }
-
-      ]
-    },
-    {
-      "id": "5",
-      "leadId": 5,
-      "leadName": "Emma Wilson",
-      "agentId": "AG002",
-      "projectDetail": {
-        "project_name": "Royal Heights",
-        "project_address": "Texas",
-        "unit_name":"RH-100",
-        "assigned_to": "Emily Clark",
-        "validFrom": "2025-10-01T00:00:00.000Z",
-        "validTo": "2025-12-31T23:59:59.000Z"
       },
-      "leadDetails": {
-        "status": "Negotiation",
-        "priority": "High",
-        "source": "Online",
-        "contactNo": "6655443322",
-        "email": "emma.wilson@example.com",
-        "created": "2025-09-28T00:00:00.000Z",
-        "last_contacted": "2025-11-25T00:00:00.000Z"
-      },
-      "visitDetails": [
-        {
-          "visit_id":"101",
-          "visit_stage":"open",
-          "visit_scheduled_date_and_time":"2025-11-26T12:20:00.000",
-          "scheduled_notes":"",
-          "visit_outcome":{
-            "start_time":"",
-            "end_time":"",
-            "lat":"",
-            "long":"",
-            "outcome_status":"",
-            "notes":"",
-            "visit_status":"Rescheduled"
-          }
-        },
-        {
-          "visit_id":"102",
-          "visit_stage":"closed",
-          "visit_scheduled_date_and_time":"2025-11-25T12:20:00.000",
-          "scheduled_notes":"",
-          "visit_outcome":{
-            "start_time":"",
-            "end_time":"",
-            "lat":"+32.38729478",
-            "long":"-28.873928521",
-            "outcome_status":"Follow-Up needed",
-            "notes":"Cilent needs to explore other options",
-            "visit_status":"Completed"
-          }
+      {
+        "visit_id": "1764744090386",
+        "visit_stage": "open",
+        "visit_scheduled_date_and_time": "2025-12-03T16:00:00.000",
+        "scheduled_notes": null,
+        "visit_outcome": {
+          "start_time": "",
+          "end_time": "",
+          "lat": "",
+          "long": "",
+          "outcome_status": "",
+          "notes": "",
+          "visit_status": "Scheduled"
         }
-      ]
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "leadId": 2,
+    "leadName": "Rohit Shan",
+    "agentId": "AG002",
+    "projectDetail": {
+      "project_name": "Green Valley Homes",
+      "project_address": "Los Angeles",
+      "unit_name": "GWH-100",
+      "assigned_to": "Emily Clark",
+      "validFrom": "2025-08-01T00:00:00.000Z",
+      "validTo": "2025-12-15T23:59:59.000Z"
     },
-    {
-      "id": "6",
-      "leadId": 6,
-      "leadName": "Vikram Raj",
-      "agentId": "AG004",
-      "projectDetail": {
-        "project_name": "Hilltop Enclave",
-        "project_address": "Denver",
-        "unit_name":"HE-90",
-        "assigned_to": "Sophia Turner",
-        "validFrom": "2025-06-01T00:00:00.000Z",
-        "validTo": "2025-12-15T23:59:59.000Z"
-      },
-      "leadDetails": {
-        "status": "Interested",
-        "priority": "Low",
-        "source": "Online",
-        "contactNo": "8877665544",
-        "email": "vikram.desai@example.com",
-        "created": "2025-08-10T00:00:00.000Z",
-        "last_contacted": "2025-11-18T00:00:00.000Z"
-      },
-     "visitDetails": [
-        {
-          "visit_id":"101",
-          "visit_stage":"open",
-          "visit_scheduled_date_and_time":"2025-11-26T12:20:00.000",
-          "scheduled_notes":"",
-          "visit_outcome":{
-           "start_time":"",
-            "end_time":"",
-            "lat":"",
-            "long":"",
-            "outcome_status":"",
-            "notes":"",
-             "visit_status":"Rescheduled"
-          }
-        },
-        {
-          "visit_id":"102",
-          "visit_stage":"closed",
-          "visit_scheduled_date_and_time":"2025-11-25T12:20:00.000",
-          "scheduled_notes":"",
-          "visit_outcome":{
-            "start_time":"",
-            "end_time":"",
-            "lat":"+32.38729478",
-            "long":"-28.873928521",
-            "outcome_status":"Follow-Up needed",
-            "notes":"Cilent needs to explore other options",
-            "visit_status":"Completed"
-          }
+    "leadDetails": {
+      "status": "Follow Up",
+      "priority": "Low",
+      "source": "Referral",
+      "contactNo": "9876543210",
+      "email": "rohit.sharma@example.com",
+      "created": "2025-10-10T00:00:00.000Z",
+      "last_contacted": "2025-11-20T00:00:00.000Z"
+    },
+    "visitDetails": [
+      {
+        "visit_id": "101",
+        "visit_stage": "open",
+        "visit_scheduled_date_and_time": "2025-11-28T12:20:00.000",
+        "scheduled_notes": "",
+        "visit_outcome": {
+          "start_time": "",
+          "end_time": "",
+          "lat": "",
+          "long": "",
+          "outcome_status": "",
+          "notes": "",
+          "visit_status": "Rescheduled"
         }
-
-      ]
+      },
+      {
+        "visit_id": "102",
+        "visit_stage": "closed",
+        "visit_scheduled_date_and_time": "2025-11-25T12:20:00.000",
+        "scheduled_notes": "",
+        "visit_outcome": {
+          "start_time": "",
+          "end_time": "",
+          "lat": "+32.38729478",
+          "long": "-28.873928521",
+          "outcome_status": "Follow-Up needed",
+          "notes": "Cilent needs to explore other options",
+          "visit_status": "Completed"
+        }
+      },
+      {
+        "visit_id": "1764744133559",
+        "visit_stage": "open",
+        "visit_scheduled_date_and_time": "2025-12-04T10:00:00.000",
+        "scheduled_notes": null,
+        "visit_outcome": {
+          "start_time": "",
+          "end_time": "",
+          "lat": "",
+          "long": "",
+          "outcome_status": "",
+          "notes": "",
+          "visit_status": "Scheduled"
+        }
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "leadId": 3,
+    "leadName": "Sara Johnson",
+    "agentId": "AG001",
+    "projectDetail": {
+      "project_name": "Ocean Breeze Villas",
+      "project_address": "Miami",
+      "unit_name": "OBV-101",
+      "assigned_to": "John Doe",
+      "validFrom": "2025-07-01T00:00:00.000Z",
+      "validTo": "2025-11-30T23:59:59.000Z"
     },
-    {
-      "id": "7",
-      "leadId": 7,
-      "leadName": "Isabella Martinez",
-      "agentId": "AG005",
-      "projectDetail": {
-        "project_name": "Palm Residency",
-        "project_address": "Florida",        
-        "unit_name":"PR-101",
-        "assigned_to": "Chris Adams",
-        "validFrom": "2025-07-10T00:00:00.000Z",
-        "validTo": "2025-12-25T23:59:59.000Z"
-      },
-      "leadDetails": {
-        "status": "New",
-        "priority": "Low",
-        "source": "Call",
-        "contactNo": "9123456780",
-        "email": "isabella.m@example.com",
-        "created": "2025-10-18T00:00:00.000Z",
-        "last_contacted": "2025-11-19T00:00:00.000Z"
-      },
-      "visitDetails": []
+    "leadDetails": {
+      "status": "Interested",
+      "priority": "High",
+      "source": "Walk-in",
+      "contactNo": "9988776655",
+      "email": "sarahj@example.com",
+      "created": "2025-09-15T00:00:00.000Z",
+      "last_contacted": "2025-11-22T00:00:00.000Z"
     },
-    {
-      "id": "8",
-      "leadId": 8,
-      "leadName": "David Mill",
-      "agentId": "AG001",
-      "projectDetail": {
-        "project_name": "Maple Woods",
-        "project_address": "Seattle",
-        "unit_name": "MW-100",
-        "validFrom": "2025-08-15T00:00:00.000Z",
-        "validTo": "2025-12-10T23:59:59.000Z"
+    "visitDetails": [
+      {
+        "visit_id": "101",
+        "visit_stage": "open",
+        "visit_scheduled_date_and_time": "2025-11-25T12:20:00.000",
+        "scheduled_notes": "",
+        "visit_outcome": {
+          "start_time": "",
+          "end_time": "",
+          "lat": "",
+          "long": "",
+          "outcome_status": "",
+          "notes": "",
+          "visit_status": "Missed"
+        }
       },
-      "leadDetails": {
-        "status": "Follow Up",
-        "priority": "High",
-        "source": "Walk-in",
-        "contactNo": "7001122334",
-        "email": "david.miller@example.com",
-        "created": "2025-09-22T00:00:00.000Z",
-        "last_contacted": "2025-11-21T00:00:00.000Z"
+      {
+        "visit_id": "102",
+        "visit_stage": "closed",
+        "visit_scheduled_date_and_time": "2025-11-25T12:20:00.000",
+        "scheduled_notes": "",
+        "visit_outcome": {
+          "start_time": "",
+          "end_time": "",
+          "lat": "+32.38729478",
+          "long": "-28.873928521",
+          "outcome_status": "Follow-Up needed",
+          "notes": "Cilent needs to explore other options",
+          "visit_status": "Completed"
+        }
       },
-      "visitDetails": []
+      {
+        "visit_id": "1764744161616",
+        "visit_stage": "open",
+        "visit_scheduled_date_and_time": "2025-12-04T14:15:00.000",
+        "scheduled_notes": null,
+        "visit_outcome": {
+          "start_time": "",
+          "end_time": "",
+          "lat": "",
+          "long": "",
+          "outcome_status": "",
+          "notes": "",
+          "visit_status": "Scheduled"
+        }
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "leadId": 4,
+    "leadName": "Karan ",
+    "agentId": "AG003",
+    "projectDetail": {
+      "project_name": "Lakeview Residency",
+      "project_address": "Chicago",
+      "unit_name": "LR-100",
+      "assigned_to": "Michael Lee",
+      "validFrom": "2025-08-20T00:00:00.000Z",
+      "validTo": "2025-12-20T23:59:59.000Z"
     },
-    {
-      "id": "9",
-      "leadId": 9,
-      "leadName": "Priya Verma",
-      "agentId": "AG003",
-      "projectDetail": {
-        "project_name": "Cityscape Towers",
-        "project_address": "Pune",
-        "unit_name":"CT-101",
-        "assigned_to": "Michael Lee",
-        "validFrom": "2025-09-01T00:00:00.000Z",
-        "validTo": "2025-12-20T23:59:59.000Z"
-      },
-      "leadDetails": {
-        "status": "New",
-        "priority": "Medium",
-        "source": "Online",
-        "contactNo": "9090909090",
-        "email": "priya.verma@example.com",
-        "created": "2025-10-12T00:00:00.000Z",
-        "last_contacted": "2025-11-24T00:00:00.000Z"
-      },
-      "visitDetails": []
+    "leadDetails": {
+      "status": "Follow Up",
+      "priority": "Medium",
+      "source": "Social Media",
+      "contactNo": "7766554433",
+      "email": "karan.patel@example.com",
+      "created": "2025-10-05T00:00:00.000Z",
+      "last_contacted": "2025-11-23T00:00:00.000Z"
     },
-    {
-      "id": "10",
-      "leadId": 10,
-      "leadName": "Lucas Brown",
-      "agentId": "AG004",
-      "projectDetail": {
-        "project_name": "Golden Meadows",
-        "project_address": "San Diego",
-        "unit_name":"GM-100",
-        "assigned_to": "Sophia Turner",
-        "validFrom": "2025-07-15T00:00:00.000Z",
-        "validTo": "2025-12-30T23:59:59.000Z"
+    "visitDetails": [
+      {
+        "visit_id": "101",
+        "visit_stage": "open",
+        "visit_scheduled_date_and_time": "2025-11-25T12:20:00.000",
+        "scheduled_notes": "",
+        "visit_outcome": {
+          "start_time": "",
+          "end_time": "",
+          "lat": "",
+          "long": "",
+          "outcome_status": "",
+          "notes": "",
+          "visit_status": "Cancelled"
+        }
       },
-      "leadDetails": {
-        "status": "Interested",
-        "priority": "Low",
-        "source": "Referral",
-        "contactNo": "8223344556",
-        "email": "lucas.b@example.com",
-        "created": "2025-09-05T00:00:00.000Z",
-        "last_contacted": "2025-11-10T00:00:00.000Z"
+      {
+        "visit_id": "102",
+        "visit_stage": "closed",
+        "visit_scheduled_date_and_time": "2025-11-25T12:20:00.000",
+        "scheduled_notes": "",
+        "visit_outcome": {
+          "start_time": "",
+          "end_time": "",
+          "lat": "+32.38729478",
+          "long": "-28.873928521",
+          "outcome_status": "Follow-Up needed",
+          "notes": "Cilent needs to explore other options",
+          "visit_status": "Completed"
+        }
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "leadId": 5,
+    "leadName": "Emma Wilson",
+    "agentId": "AG002",
+    "projectDetail": {
+      "project_name": "Royal Heights",
+      "project_address": "Texas",
+      "unit_name": "RH-100",
+      "assigned_to": "Emily Clark",
+      "validFrom": "2025-10-01T00:00:00.000Z",
+      "validTo": "2025-12-31T23:59:59.000Z"
+    },
+    "leadDetails": {
+      "status": "Negotiation",
+      "priority": "High",
+      "source": "Online",
+      "contactNo": "6655443322",
+      "email": "emma.wilson@example.com",
+      "created": "2025-09-28T00:00:00.000Z",
+      "last_contacted": "2025-11-25T00:00:00.000Z"
+    },
+    "visitDetails": [
+      {
+        "visit_id": "101",
+        "visit_stage": "open",
+        "visit_scheduled_date_and_time": "2025-11-26T12:20:00.000",
+        "scheduled_notes": "",
+        "visit_outcome": {
+          "start_time": "",
+          "end_time": "",
+          "lat": "",
+          "long": "",
+          "outcome_status": "",
+          "notes": "",
+          "visit_status": "Rescheduled"
+        }
       },
-      "visitDetails": [
-        
-      ]
-    }
-  ],
+      {
+        "visit_id": "102",
+        "visit_stage": "closed",
+        "visit_scheduled_date_and_time": "2025-11-25T12:20:00.000",
+        "scheduled_notes": "",
+        "visit_outcome": {
+          "start_time": "",
+          "end_time": "",
+          "lat": "+32.38729478",
+          "long": "-28.873928521",
+          "outcome_status": "Follow-Up needed",
+          "notes": "Cilent needs to explore other options",
+          "visit_status": "Completed"
+        }
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "leadId": 6,
+    "leadName": "Vikram Raj",
+    "agentId": "AG004",
+    "projectDetail": {
+      "project_name": "Hilltop Enclave",
+      "project_address": "Denver",
+      "unit_name": "HE-90",
+      "assigned_to": "Sophia Turner",
+      "validFrom": "2025-06-01T00:00:00.000Z",
+      "validTo": "2025-12-15T23:59:59.000Z"
+    },
+    "leadDetails": {
+      "status": "Interested",
+      "priority": "Low",
+      "source": "Online",
+      "contactNo": "8877665544",
+      "email": "vikram.desai@example.com",
+      "created": "2025-08-10T00:00:00.000Z",
+      "last_contacted": "2025-11-18T00:00:00.000Z"
+    },
+    "visitDetails": [
+      {
+        "visit_id": "101",
+        "visit_stage": "open",
+        "visit_scheduled_date_and_time": "2025-11-26T12:20:00.000",
+        "scheduled_notes": "",
+        "visit_outcome": {
+          "start_time": "",
+          "end_time": "",
+          "lat": "",
+          "long": "",
+          "outcome_status": "",
+          "notes": "",
+          "visit_status": "Rescheduled"
+        }
+      },
+      {
+        "visit_id": "102",
+        "visit_stage": "closed",
+        "visit_scheduled_date_and_time": "2025-11-25T12:20:00.000",
+        "scheduled_notes": "",
+        "visit_outcome": {
+          "start_time": "",
+          "end_time": "",
+          "lat": "+32.38729478",
+          "long": "-28.873928521",
+          "outcome_status": "Follow-Up needed",
+          "notes": "Cilent needs to explore other options",
+          "visit_status": "Completed"
+        }
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "leadId": 7,
+    "leadName": "Isabella Martinez",
+    "agentId": "AG005",
+    "projectDetail": {
+      "project_name": "Palm Residency",
+      "project_address": "Florida",
+      "unit_name": "PR-101",
+      "assigned_to": "Chris Adams",
+      "validFrom": "2025-07-10T00:00:00.000Z",
+      "validTo": "2025-12-25T23:59:59.000Z"
+    },
+    "leadDetails": {
+      "status": "New",
+      "priority": "Low",
+      "source": "Call",
+      "contactNo": "9123456780",
+      "email": "isabella.m@example.com",
+      "created": "2025-10-18T00:00:00.000Z",
+      "last_contacted": "2025-11-19T00:00:00.000Z"
+    },
+    "visitDetails": []
+  },
+  {
+    "id": "8",
+    "leadId": 8,
+    "leadName": "David Mill",
+    "agentId": "AG001",
+    "projectDetail": {
+      "project_name": "Maple Woods",
+      "project_address": "Seattle",
+      "unit_name": "MW-100",
+      "validFrom": "2025-08-15T00:00:00.000Z",
+      "validTo": "2025-12-10T23:59:59.000Z"
+    },
+    "leadDetails": {
+      "status": "Follow Up",
+      "priority": "High",
+      "source": "Walk-in",
+      "contactNo": "7001122334",
+      "email": "david.miller@example.com",
+      "created": "2025-09-22T00:00:00.000Z",
+      "last_contacted": "2025-11-21T00:00:00.000Z"
+    },
+    "visitDetails": []
+  },
+  {
+    "id": "9",
+    "leadId": 9,
+    "leadName": "Priya Verma",
+    "agentId": "AG003",
+    "projectDetail": {
+      "project_name": "Cityscape Towers",
+      "project_address": "Pune",
+      "unit_name": "CT-101",
+      "assigned_to": "Michael Lee",
+      "validFrom": "2025-09-01T00:00:00.000Z",
+      "validTo": "2025-12-20T23:59:59.000Z"
+    },
+    "leadDetails": {
+      "status": "New",
+      "priority": "Medium",
+      "source": "Online",
+      "contactNo": "9090909090",
+      "email": "priya.verma@example.com",
+      "created": "2025-10-12T00:00:00.000Z",
+      "last_contacted": "2025-11-24T00:00:00.000Z"
+    },
+    "visitDetails": []
+  },
+  {
+    "id": "10",
+    "leadId": 10,
+    "leadName": "Lucas Brown",
+    "agentId": "AG004",
+    "projectDetail": {
+      "project_name": "Golden Meadows",
+      "project_address": "San Diego",
+      "unit_name": "GM-100",
+      "assigned_to": "Sophia Turner",
+      "validFrom": "2025-07-15T00:00:00.000Z",
+      "validTo": "2025-12-30T23:59:59.000Z"
+    },
+    "leadDetails": {
+      "status": "Interested",
+      "priority": "Low",
+      "source": "Referral",
+      "contactNo": "8223344556",
+      "email": "lucas.b@example.com",
+      "created": "2025-09-05T00:00:00.000Z",
+      "last_contacted": "2025-11-10T00:00:00.000Z"
+    },
+    "visitDetails": []
+  },
+  {
+    "id": "11",
+    "leadId": 11,
+    "leadName": "Daniel",
+    "agentId": "John",
+    "projectDetail": {
+      "project_name": "Green Meadows",
+      "project_address": "",
+      "unit_name": "A-10",
+      "assigned_to": "John",
+      "validFrom": "2025-12-03T12:10:42.311906",
+      "validTo": "2026-02-01T12:10:42.314291"
+    },
+    "leadDetails": {
+      "status": "New",
+      "priority": "Medium",
+      "source": "Agent",
+      "contactNo": "1234123412",
+      "email": "daniel@example.com",
+      "created": "2025-12-03T12:10:42.311906",
+      "last_contacted": "2025-12-03T12:10:42.311906"
+    },
+    "visitDetails": []
+  }
+],
   "siteVisit":[
     {
       "id":"1",
