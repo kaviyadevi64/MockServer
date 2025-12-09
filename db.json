@@ -1000,70 +1000,111 @@
     },
     "visitDetails": []
   }
-],
-  "siteVisit":[
-    {
-      "id":"1",
-      "lead_name":"Raj",
-      "project_id":"121",
-      "status":"",
-      "date_and_time":"2025-11-17T10:50:00.000",
-      "project_name":"Sunrise Apartments",
-      "site_visit_status":"Rescheduled",
-      "visit_location":"",
-      "photos":"",
-      "visit_outcome":"",
-      "reschedule":"true",
-      "rescheduled_date":"2025-11-22T10:50:00.000",
-      "visit_details":[
-        {
-          "visit_location":"",
-          "visit_outcome":""
-          
-        }
-      ]
+] ,
+"leads":[
+  {
+    "id":1,
+    "lead_id":"100",
+    "lead_status":"hot",
+    "lead_created_on":"",
+    "personal_data":{
+      "prefix":"MR",
+      "first_name":"Kavyadevi",
+      "middle_name":"",
+      "last_name":"",
+      "contact_number":"",
+      "email_address":"",
+    "inteactions":{
+
     },
-    {
-      "id":"2",
-      "lead_name":"Raj Sharma",
-      "project_id":"129",
-      "status":"",
-      "date_and_time":"2025-11-17T10:50:00.000",
-      "project_name":"Sunrise Apartments",
-      "site_visit_status":"Scheduled",
-      "visit_location":"",
-      "photos":"",
-      "visit_outcome":"",
-      "reschedule":"true",
-      "rescheduled_date":"2025-11-22T10:50:00.000",
-       "visit_details":[
-        {
-          "visit_location":"",
-          "visit_outcome":""
-          
-        }
-      ]
+    "assigned_units":[
+      {
+        "unit_id":"",
+        "unit_name":""
+      },
+      {
+        "unit_id":"",
+        "unit_name":""
+      }
+    ]
+  }},
+  {
+    "id":2,
+    "lead_id":"100",
+    "lead_status":"hot",
+    "lead_created_on":"",
+    "personal_data":{
+      "prefix":"Mr",
+      "first_name":"Tharum",
+      "middle_name":"",
+      "last_name":"",
+      "contact_number":"1234567891",
+      "email_address":"tharum@gmail.com",
+    "inteactions":{
+
     },
-    {
-      "id":"3",
-      "lead_name":"Amaya",
-      "project_id":"120",
-      "status":"",
-      "date_and_time":"2025-11-17T10:50:00.000",
-      "project_name":"Sunrise Apartments",
-      "site_visit_status":"Scheduled",
-      "visit_location":"",
-      "photos":"",
-      "visit_outcome":"",
-      "reschedule":"false",
-      "rescheduled_date":"2025-11-22T10:50:00.000",
-       "visit_details":[
-        {
-          "visit_location":"",
-          "visit_outcome":""
-          
-        }
-      ]
-    }
-  ] 
+    "assigned_units":[
+      {
+        "unit_id":"",
+        "unit_name":""
+      },
+      {
+        "unit_id":"",
+        "unit_name":""
+      }
+    ]
+  }},
+  {
+    "id":2,
+    "lead_id":"101",
+    "lead_status":"hot",
+    "lead_created_on":"",
+    "personal_data":{
+      "prefix":"Mr",
+      "first_name":"Jp",
+      "middle_name":"",
+      "last_name":"",
+      "contact_number":"1234567892",
+      "email_address":"jp@example.com",
+    "inteactions":{
+
+    },
+    "assigned_units":[
+      {
+        "unit_id":"",
+        "unit_name":""
+      },
+      {
+        "unit_id":"",
+        "unit_name":""
+      }
+    ]
+  }},
+  {
+    "id":3,
+    "lead_id":"103",
+    "lead_status":"hot",
+    "lead_created_on":"",
+    "personal_data":{
+      "prefix":"Ms",
+      "first_name":"Amaya",
+      "middle_name":"",
+      "last_name":"",
+      "contact_number":"1234567893",
+      "email_address":"amaya@gmail.com",
+    "inteactions":{
+
+    },
+    "assigned_units":[
+      {
+        "unit_id":"",
+        "unit_name":""
+      },
+      {
+        "unit_id":"",
+        "unit_name":""
+      }
+    ]
+  }}
+]
 }
