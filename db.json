@@ -1106,5 +1106,169 @@
       }
     ]
   }}
+],
+"units":[
+  {
+    "unit_details":{
+    "unit_id":"A-101",
+    "project_name":"Skyline tOWERS",
+    "floor_no":"3",
+    "size":"1300 m2",
+    "basePrice":"1,200,000",
+    "discout_percentage":"10",
+    "availabilty":"Available"
+    },
+    "offers":{
+      "offer_available":"true"
+    },
+    "linked_leads":{
+       "linked_lead_id":"294"
+    },
+    "history":{
+      "updatedBy":"Aman",
+      "updatedAt":"2025-08-01T11:30:00Z"
+    },
+    "floor_plan":{
+
+    },
+    "linked_documents":{
+
+    }
+  },
+  {
+    "unit_details":{
+    "unit_id":"A-101",
+    "project_name":"Skyline tOWERS",
+    "floor_no":"3",
+    "size":"1300 m2",
+    "basePrice":"1,200,000",
+    "discout_percentage":"10",
+    "availabilty":"Available"
+    },
+    "offers":{
+      "offer_available":"true"
+    },
+    "linked_leads":{
+       "linked_lead_id":"294"
+    },
+    "history":{
+      "updatedBy":"Aman",
+      "updatedAt":"2025-08-01T11:30:00Z"
+    },
+    "floor_plan":{
+
+    },
+    "linked_documents":{
+
+    }
+  },
+  {
+    "unit_details":{
+    "unit_id":"A-101",
+    "project_name":"Skyline tOWERS",
+    "floor_no":"3",
+    "size":"1300 m2",
+    "basePrice":"1,200,000",
+    "discout_percentage":"10",
+    "availabilty":"Available"
+    },
+    "offers":{
+      "offer_available":"true"
+    },
+    "linked_leads":{
+       "linked_lead_id":"294"
+    },
+    "history":{
+      "updatedBy":"Aman",
+      "updatedAt":"2025-08-01T11:30:00Z"
+    },
+    "floor_plan":{
+
+    },
+    "linked_documents":{
+
+    }
+  },
+  {
+    "unit_details":{
+    "unit_id":"A-101",
+    "project_name":"Skyline tOWERS",
+    "floor_no":"3",
+    "size":"1300 m2",
+    "basePrice":"1,200,000",
+    "discout_percentage":"10",
+    "availabilty":"Available"
+    },
+    "offers":{
+      "offer_available":"true"
+    },
+    "linked_leads":{
+       "linked_lead_id":"294"
+    },
+    "history":{
+      "updatedBy":"Aman",
+      "updatedAt":"2025-08-01T11:30:00Z"
+    },
+    "floor_plan":{
+
+    },
+    "linked_documents":{
+
+    }
+  },
+  {
+    "unit_details":{
+    "unit_id":"A-101",
+    "project_name":"Skyline tOWERS",
+    "floor_no":"3",
+    "size":"1300 m2",
+    "basePrice":"1,200,000",
+    "discout_percentage":"10",
+    "availabilty":"Available"
+    },
+    "offers":{
+      "offer_available":"true"
+    },
+    "linked_leads":{
+       "linked_lead_id":"294"
+    },
+    "history":{
+      "updatedBy":"Aman",
+      "updatedAt":"2025-08-01T11:30:00Z"
+    },
+    "floor_plan":{
+
+    },
+    "linked_documents":{
+
+    }
+  },
+  {
+    "unit_details":{
+    "unit_id":"A-101",
+    "project_name":"Skyline tOWERS",
+    "floor_no":"3",
+    "size":"1300 m2",
+    "basePrice":"1,200,000",
+    "discout_percentage":"10",
+    "availabilty":"Available"
+    },
+    "offers":{
+      "offer_available":"true"
+    },
+    "linked_leads":{
+       "linked_lead_id":"294"
+    },
+    "history":{
+      "updatedBy":"Aman",
+      "updatedAt":"2025-08-01T11:30:00Z"
+    },
+    "floor_plan":{
+
+    },
+    "linked_documents":{
+
+    }
+  }
 ]
 }
