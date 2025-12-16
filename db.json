@@ -1108,7 +1108,7 @@
   }}
 ],
 "units":[
-  {
+  { "id":"1",
     "unit_details":{
     "unit_id":"A-101",
     "project_name":"Skyline tOWERS",
@@ -1133,9 +1133,12 @@
     },
     "linked_documents":{
 
+    },
+    "images":{
+      "imageUrl":"https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=800"
     }
   },
-  {
+  { "id":"2",
     "unit_details":{
     "unit_id":"A-101",
     "project_name":"Skyline tOWERS",
@@ -1160,9 +1163,12 @@
     },
     "linked_documents":{
 
+    },
+     "images":{
+      "imageUrl":"https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=800"
     }
   },
-  {
+  { "id":"3",
     "unit_details":{
     "unit_id":"A-101",
     "project_name":"Skyline tOWERS",
@@ -1187,9 +1193,12 @@
     },
     "linked_documents":{
 
+    },
+     "images":{
+      "imageUrl":"https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=800"
     }
   },
-  {
+  { "id":"4",
     "unit_details":{
     "unit_id":"A-101",
     "project_name":"Skyline tOWERS",
@@ -1214,9 +1223,12 @@
     },
     "linked_documents":{
 
+    },
+     "images":{
+      "imageUrl":"https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800"
     }
   },
-  {
+  { "id":"5",
     "unit_details":{
     "unit_id":"A-101",
     "project_name":"Skyline tOWERS",
@@ -1241,9 +1253,12 @@
     },
     "linked_documents":{
 
+    },
+     "images":{
+      "imageUrl":"https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800"
     }
   },
-  {
+  { "id":"6",
     "unit_details":{
     "unit_id":"A-101",
     "project_name":"Skyline tOWERS",
@@ -1268,6 +1283,9 @@
     },
     "linked_documents":{
 
+    },
+     "images":{
+      "imageUrl":"https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=800"
     }
   }
 ]
