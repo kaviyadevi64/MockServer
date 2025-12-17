@@ -474,8 +474,7 @@
   "detail": "Success"
 }
 ],
-
-  "leadInfo": [
+"leadInfo": [
   {
     "id": "1",
     "leadId": 1,
@@ -1108,190 +1107,260 @@
   }}
 ],
 "units":[
-  { "id":"1",
-    "unit_details":{
-    "unit_id":"A-101",
-    "unit_type":"Apartments",
-    "project_name":"Skyline Towers",
-    "floor_no":"3",
-    "size":"1300 m2",
-    "basePrice":"1,200,000",
-    "discout_percentage":"10",
-    "availabilty":"Available"
+  {
+    "id": "1",
+    "unit_details": {
+      "unit_id": "A-101",
+      "unit_type": "Apartments",
+      "project_name": "Skyline Towers",
+      "tower": "Tower A",
+      "type": "2 BHK",
+      "floor_no": "3",
+      "size": "1300 sq ft",
+      "basePrice": "1200000",
+      "discout_percentage": "10",
+      "availabilty": "Available",
+      "commission_eligibility": true
     },
-    "offers":{
-      "offer_available":"true"
+    "offers": {
+      "offer_available": true,
+      "discount_percentage": 5
     },
-    "linked_leads":{
-       "linked_lead_id":"294"
+    "linked_leads": {
+      "linked_lead_id": "294"
     },
-    "history":{
-      "updatedBy":"Aman",
-      "updatedAt":"2025-08-01T11:30:00Z"
+    "history": {
+      "updatedBy": "Aman",
+      "updatedAt": "2025-08-01T11:30:00Z"
     },
-    "floor_plan":{
-
-    },
-    "linked_documents":{
-
-    },
-    "images":{
-      "imageUrl":"https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=800"
+    "floor_plan": {},
+    "linked_documents": {},
+    "images": {
+      "imageUrl": "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=800"
     }
   },
-  { "id":"2",
-    "unit_details":{
-    "unit_id":"A-106",
-    "unit_type":"Apartments",
-    "project_name":"Skyline Towers",
-    "floor_no":"3",
-    "size":"1300 m2",
-    "basePrice":"1,200,000",
-    "discout_percentage":"10",
-    "availabilty":"Available"
+  {
+    "id": "2",
+    "unit_details": {
+      "unit_id": "A-106",
+      "unit_type": "Apartments",
+      "project_name": "Skyline Towers",
+      "tower": "Tower A",
+      "type": "3 BHK",
+      "floor_no": "6",
+      "size": "1850 sq ft",
+      "basePrice": "2500000",
+      "discout_percentage": "10",
+      "availabilty": "Available",
+      "commission_eligibility": true
     },
-    "offers":{
-      "offer_available":"true"
+    "offers": {
+      "offer_available": true,
+      "discount_percentage": 5
     },
-    "linked_leads":{
-       "linked_lead_id":"294"
+    "linked_leads": {
+      "linked_lead_id": "294"
     },
-    "history":{
-      "updatedBy":"Aman",
-      "updatedAt":"2025-08-01T11:30:00Z"
+    "history": {
+      "updatedBy": "Aman",
+      "updatedAt": "2025-08-01T11:30:00Z"
     },
-    "floor_plan":{
-
-    },
-    "linked_documents":{
-
-    },
-     "images":{
-      "imageUrl":"https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=800"
+    "floor_plan": {},
+    "linked_documents": {},
+    "images": {
+      "imageUrl": "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=800"
     }
   },
-  { "id":"3",
-    "unit_details":{
-    "unit_id":"A-109",
-    "unit_type":"Apartments",
-    "project_name":"Skyline Towers",
-    "floor_no":"3",
-    "size":"1300 m2",
-    "basePrice":"1,200,000",
-    "discout_percentage":"10",
-    "availabilty":"Available"
+  {
+    "id": "3",
+    "unit_details": {
+      "unit_id": "B-109",
+      "unit_type": "Apartments",
+      "project_name": "Skyline Towers",
+      "tower": "Tower B",
+      "type": "2 BHK",
+      "floor_no": "9",
+      "size": "1400 sq ft",
+      "basePrice": "1800000",
+      "discout_percentage": "10",
+      "availabilty": "Booked",
+      "commission_eligibility": false
     },
-    "offers":{
-      "offer_available":"true"
+    "offers": {
+      "offer_available": false,
+      "discount_percentage": 0
     },
-    "linked_leads":{
-       "linked_lead_id":"294"
+    "linked_leads": {
+      "linked_lead_id": "294"
     },
-    "history":{
-      "updatedBy":"Aman",
-      "updatedAt":"2025-08-01T11:30:00Z"
+    "history": {
+      "updatedBy": "Aman",
+      "updatedAt": "2025-08-01T11:30:00Z"
     },
-    "floor_plan":{
-
-    },
-    "linked_documents":{
-
-    },
-     "images":{
-      "imageUrl":"https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=800"
+    "floor_plan": {},
+    "linked_documents": {},
+    "images": {
+      "imageUrl": "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=800"
     }
   },
-  { "id":"4",
-    "unit_details":{
-    "unit_id":"F-101",
-    "unit_type":"Villa",
-    "project_name":"Green Meadows",
-    "floor_no":"3",
-    "size":"1300 m2",
-    "basePrice":"1,200,000",
-    "discout_percentage":"10",
-    "availabilty":"Available"
+  {
+    "id": "4",
+    "unit_details": {
+      "unit_id": "F-101",
+      "unit_type": "Villa",
+      "project_name": "Green Meadows",
+      "tower": "North Block",
+      "type": "4 BHK Villa",
+      "floor_no": "Ground",
+      "size": "3500 sq ft",
+      "basePrice": "8500000",
+      "discout_percentage": "5",
+      "availabilty": "Available",
+      "commission_eligibility": true
     },
-    "offers":{
-      "offer_available":"true"
+    "offers": {
+      "offer_available": true,
+      "discount_percentage": 3
     },
-    "linked_leads":{
-       "linked_lead_id":"294"
+    "linked_leads": {
+      "linked_lead_id": "294"
     },
-    "history":{
-      "updatedBy":"Aman",
-      "updatedAt":"2025-08-01T11:30:00Z"
+    "history": {
+      "updatedBy": "Aman",
+      "updatedAt": "2025-08-01T11:30:00Z"
     },
-    "floor_plan":{
-
-    },
-    "linked_documents":{
-
-    },
-     "images":{
-      "imageUrl":"https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800"
+    "floor_plan": {},
+    "linked_documents": {},
+    "images": {
+      "imageUrl": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800"
     }
   },
-  { "id":"5",
-    "unit_details":{
-    "unit_id":"A-101",
-    "unit_type":"Apartments",
-    "project_name":"Skyline Towers",
-    "floor_no":"3",
-    "size":"1300 m2",
-    "basePrice":"1,200,000",
-    "discout_percentage":"10",
-    "availabilty":"Available"
+  {
+    "id": "5",
+    "unit_details": {
+      "unit_id": "A-201",
+      "unit_type": "Apartments",
+      "project_name": "Skyline Towers",
+      "tower": "Tower A",
+      "type": "3 BHK",
+      "floor_no": "2",
+      "size": "1900 sq ft",
+      "basePrice": "2800000",
+      "discout_percentage": "10",
+      "availabilty": "Available",
+      "commission_eligibility": true
     },
-    "offers":{
-      "offer_available":"true"
+    "offers": {
+      "offer_available": true,
+      "discount_percentage": 5
     },
-    "linked_leads":{
-       "linked_lead_id":"294"
+    "linked_leads": {
+      "linked_lead_id": "294"
     },
-    "history":{
-      "updatedBy":"Aman",
-      "updatedAt":"2025-08-01T11:30:00Z"
+    "history": {
+      "updatedBy": "Aman",
+      "updatedAt": "2025-08-01T11:30:00Z"
     },
-    "floor_plan":{
-
-    },
-    "linked_documents":{
-
-    },
-     "images":{
-      "imageUrl":"https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800"
+    "floor_plan": {},
+    "linked_documents": {},
+    "images": {
+      "imageUrl": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800"
     }
   },
-  { "id":"6",
-    "unit_details":{
-    "unit_id":"G-109",
-    "unit_type":"Villa",
-    "project_name":"Green Valley Homes",
-    "floor_no":3,
-    "size":"1300 m2",
-    "basePrice":"1,200,000",
-    "discout_percentage":"10",
-    "availabilty":"Available"
+  {
+    "id": "6",
+    "unit_details": {
+      "unit_id": "G-109",
+      "unit_type": "Villa",
+      "project_name": "Green Valley Homes",
+      "tower": "East Wing",
+      "type": "5 BHK Villa",
+      "floor_no": "Ground + First",
+      "size": "4200 sq ft",
+      "basePrice": "12000000",
+      "discout_percentage": "8",
+      "availabilty": "Under Negotiation",
+      "commission_eligibility": true
     },
-    "offers":{
-      "offer_available":"true"
+    "offers": {
+      "offer_available": true,
+      "discount_percentage": 4
     },
-    "linked_leads":{
-       "linked_lead_id":"294"
+    "linked_leads": {
+      "linked_lead_id": "294"
     },
-    "history":{
-      "updatedBy":"Aman",
-      "updatedAt":"2025-08-01T11:30:00Z"
+    "history": {
+      "updatedBy": "Aman",
+      "updatedAt": "2025-08-01T11:30:00Z"
     },
-    "floor_plan":{
-
+    "floor_plan": {},
+    "linked_documents": {},
+    "images": {
+      "imageUrl": "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=800"
+    }
+  },
+  {
+    "id": "7",
+    "unit_details": {
+      "unit_id": "C-305",
+      "unit_type": "Apartments",
+      "project_name": "Skyline Towers",
+      "tower": "Tower C",
+      "type": "1 BHK",
+      "floor_no": "5",
+      "size": "850 sq ft",
+      "basePrice": "950000",
+      "discout_percentage": "12",
+      "availabilty": "Available",
+      "commission_eligibility": true
     },
-    "linked_documents":{
-
+    "offers": {
+      "offer_available": true,
+      "discount_percentage": 6
     },
-     "images":{
-      "imageUrl":"https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=800"
+    "linked_leads": {
+      "linked_lead_id": "295"
+    },
+    "history": {
+      "updatedBy": "Priya",
+      "updatedAt": "2025-08-02T10:15:00Z"
+    },
+    "floor_plan": {},
+    "linked_documents": {},
+    "images": {
+      "imageUrl": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800"
+    }
+  },
+  {
+    "id": "8",
+    "unit_details": {
+      "unit_id": "F-205",
+      "unit_type": "Villa",
+      "project_name": "Green Meadows",
+      "tower": "South Block",
+      "type": "3 BHK Villa",
+      "floor_no": "Ground",
+      "size": "2800 sq ft",
+      "basePrice": "6500000",
+      "discout_percentage": "7",
+      "availabilty": "Sold",
+      "commission_eligibility": false
+    },
+    "offers": {
+      "offer_available": false,
+      "discount_percentage": 0
+    },
+    "linked_leads": {
+      "linked_lead_id": "296"
+    },
+    "history": {
+      "updatedBy": "Rahul",
+      "updatedAt": "2025-08-03T14:20:00Z"
+    },
+    "floor_plan": {},
+    "linked_documents": {},
+    "images": {
+      "imageUrl": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800"
     }
   }
 ]
